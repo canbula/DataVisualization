@@ -1,5 +1,6 @@
 import logging
 import numpy as np
+import pandas as pd
 
 
 def is_mutable(x) -> bool:
@@ -8,7 +9,7 @@ def is_mutable(x) -> bool:
     :param x: any
     :return: bool
     """
-    mutables = (list, set, dict)
+    mutables = (list, set, dict, np.ndarray, pd.Series, pd.DataFrame)
     immutables = (int, float, bool, complex, str, tuple)
     if isinstance(x, immutables):
         return False
@@ -22,7 +23,7 @@ class MutabilityTest:
     def __init__(self, start_message="[START]", end_message="[END]"):
         self.start_message = start_message
         self.end_message = end_message
-        self.__types = (int, float, str, bool, complex, list, tuple, set, dict)
+        self.__types = (int, float, str, bool, complex, list, tuple, set, dict, np.ndarray, pd.Series, pd.DataFrame)
         self._tests = [
             {"input": 1, "expected": False, "test_name": "Integer test"},
             {"input": 1.0, "expected": False, "test_name": "Float test"},
@@ -40,7 +41,7 @@ class MutabilityTest:
                             datefmt='%d.%m.%Y %H:%M:%S',
                             level=logging.INFO, 
                             force=True,
-                            handlers=[logging.FileHandler("Week03/mutability.log", mode='w'), logging.StreamHandler()])
+                            handlers=[logging.FileHandler("./mutability.log", mode='w'), logging.StreamHandler()])
         logging.info(self.start_message)
         return self
     
@@ -49,24 +50,23 @@ class MutabilityTest:
         return True
     
     def __call__(self, *args, **kwargs):
-        for test in self._tests:
-            test_str = f"[TEST] {self._tests.index(test)+1:2d} / {len(self._tests):2d} {test['test_name']} :"
-            if not isinstance(test["input"], self.__types):
+        for testIndex in range(len(self._tests)):
+            test_str = f"[TEST] {testIndex+1:2d} / {len(self._tests):2d} {self._tests[testIndex]['test_name']} :"
+            if not isinstance(self._tests[testIndex]["input"], self.__types):
                 logging.error(f"{test_str} Type not supported")
                 continue
-            if not isinstance(test["expected"], bool):
+            if not isinstance(self._tests[testIndex]["expected"], bool):
                 logging.error(f"{test_str} Expected value not supported")
                 continue
-            if not isinstance(test["test_name"], str):
+            if not isinstance(self._tests[testIndex]["test_name"], str):
                 logging.error(f"{test_str} Test name not supported")
                 continue
             try:
-                assert is_mutable(test["input"]) is test["expected"]
+                assert is_mutable(self._tests[testIndex]["input"]) is self._tests[testIndex]["expected"]
             except Exception as e:
                 logging.error(f"{test_str} failed {e}")
             else:
                 logging.info(f"{test_str} succeeded")
-
 
 def main():
     with MutabilityTest() as mutability_test:
@@ -75,6 +75,8 @@ def main():
         mutability_test._tests.append({"input": "1", "expected": "1", "test_name": "Another String test"})
         mutability_test._tests.append({"input": True, "expected": True, "test_name": True})
         mutability_test._tests.append({"input": np.array([1, 2, 3]), "expected": True, "test_name": "Numpy test"})
+        mutability_test._tests.append({"input": pd.Series([5, 2, 11, 45, 66]), "expected": False, "test_name": "Pandas Series test"})
+        mutability_test._tests.append({"input": pd.DataFrame({"calories": [420, 380, 390],"duration": [50, 40, 45]}), "expected": False, "test_name": "Pandas DataFrame test"})
         mutability_test()
 
 # TODO

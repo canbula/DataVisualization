@@ -1,15 +1,18 @@
-INFO @ 06.03.2023 21:25:03 : [START]
-INFO @ 06.03.2023 21:25:03 : [TEST]  1 / 14 Integer test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  2 / 14 Float test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  3 / 14 String test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  4 / 14 Boolean test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  5 / 14 Complex test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  6 / 14 List test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  7 / 14 Tuple test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  8 / 14 Set test : succeeded
-INFO @ 06.03.2023 21:25:03 : [TEST]  9 / 14 Dict test : succeeded
-ERROR @ 06.03.2023 21:25:03 : [TEST] 10 / 14 Another Integer test : failed 
-ERROR @ 06.03.2023 21:25:03 : [TEST] 11 / 14 Another Float test : Expected value not supported
-ERROR @ 06.03.2023 21:25:03 : [TEST] 12 / 14 Another String test : Expected value not supported
-ERROR @ 06.03.2023 21:25:03 : [TEST] 13 / 14 True : Test name not supported
-INFO @ 06.03.2023 21:25:03 : [END]
+INFO @ 11.03.2023 14:42:06 : [START]
+INFO @ 11.03.2023 14:42:06 : [TEST]  1 / 16 Integer test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  2 / 16 Float test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  3 / 16 String test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  4 / 16 Boolean test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  5 / 16 Complex test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  6 / 16 List test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  7 / 16 Tuple test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  8 / 16 Set test : succeeded
+INFO @ 11.03.2023 14:42:06 : [TEST]  9 / 16 Dict test : succeeded
+ERROR @ 11.03.2023 14:42:06 : [TEST] 10 / 16 Another Integer test : failed 
+ERROR @ 11.03.2023 14:42:06 : [TEST] 11 / 16 Another Float test : Expected value not supported
+ERROR @ 11.03.2023 14:42:06 : [TEST] 12 / 16 Another String test : Expected value not supported
+ERROR @ 11.03.2023 14:42:06 : [TEST] 13 / 16 True : Test name not supported
+INFO @ 11.03.2023 14:42:06 : [TEST] 14 / 16 Numpy test : succeeded
+ERROR @ 11.03.2023 14:42:06 : [TEST] 15 / 16 Pandas Series test : failed 
+ERROR @ 11.03.2023 14:42:06 : [TEST] 16 / 16 Pandas DataFrame test : failed 
+INFO @ 11.03.2023 14:42:06 : [END]
