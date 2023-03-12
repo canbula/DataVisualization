@@ -1,6 +1,6 @@
 import logging
 import numpy as np
-
+import pandas as pd
 
 def is_mutable(x) -> bool:
     """
@@ -8,7 +8,7 @@ def is_mutable(x) -> bool:
     :param x: any
     :return: bool
     """
-    mutables = (list, set, dict)
+    mutables = (list, set, dict, pd.DataFrame, pd.Series, np.ndarray)
     immutables = (int, float, bool, complex, str, tuple)
     if isinstance(x, immutables):
         return False
@@ -22,7 +22,7 @@ class MutabilityTest:
     def __init__(self, start_message="[START]", end_message="[END]"):
         self.start_message = start_message
         self.end_message = end_message
-        self.__types = (int, float, str, bool, complex, list, tuple, set, dict)
+        self.__types = (int, float, str, bool, complex, list, tuple, set, dict, pd.DataFrame, pd.Series, np.ndarray)
         self._tests = [
             {"input": 1, "expected": False, "test_name": "Integer test"},
             {"input": 1.0, "expected": False, "test_name": "Float test"},
@@ -38,8 +38,7 @@ class MutabilityTest:
     def __enter__(self):
         logging.basicConfig(format='%(levelname)s @ %(asctime)s : %(message)s', 
                             datefmt='%d.%m.%Y %H:%M:%S',
-                            level=logging.INFO, 
-                            force=True,
+                            level=logging.INFO,
                             handlers=[logging.FileHandler("Week03/mutability.log", mode='w'), logging.StreamHandler()])
         logging.info(self.start_message)
         return self
@@ -49,8 +48,8 @@ class MutabilityTest:
         return True
     
     def __call__(self, *args, **kwargs):
-        for test in self._tests:
-            test_str = f"[TEST] {self._tests.index(test)+1:2d} / {len(self._tests):2d} {test['test_name']} :"
+        for index, test in enumerate(self._tests):
+            test_str = f"[TEST] {index+1:2d} / {len(self._tests):2d} {test['test_name']} :"
             if not isinstance(test["input"], self.__types):
                 logging.error(f"{test_str} Type not supported")
                 continue
@@ -75,10 +74,10 @@ def main():
         mutability_test._tests.append({"input": "1", "expected": "1", "test_name": "Another String test"})
         mutability_test._tests.append({"input": True, "expected": True, "test_name": True})
         mutability_test._tests.append({"input": np.array([1, 2, 3]), "expected": True, "test_name": "Numpy test"})
+        mutability_test._tests.append({"input": pd.Series([1,2,3]), "expected": True, "test_name": "Pandas series test"})
+        mutability_test._tests.append({"input": pd.DataFrame({"example": "test", "test": [1,2,3]}), "expected": True, "test_name": "Pandas dataframe test"})
         mutability_test()
 
-# TODO
-# add Numpy Array, Pandas Series, Pandas DataFrame support
 
 if __name__ == "__main__":
     main()
