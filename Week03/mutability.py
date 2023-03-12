@@ -1,6 +1,7 @@
 import logging
 import numpy as np
 
+
 def is_mutable(x) -> bool:
     """
     Check if the input is mutable or not
