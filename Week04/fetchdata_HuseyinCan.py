@@ -117,15 +117,17 @@ def fetchDataaFromOnePage(car,cars_array):
 
 
 @exception
-def fetchDataAllOfThem(cars_array):
+def fetchDataAllOfThem(cars_array,cars_in_page):
     page_num=1
     i=1
+
     while True:
         print(f"******************************PAGE NUMBER: {page_num}************************************************")
         time.sleep(5)
         cars = browser.find_elements(by=By.CSS_SELECTOR, value='.searchResultsItem')
-        fetchDataaFromOnePage(cars,cars_array)
-
+        cars_onepage=fetchDataaFromOnePage(cars,cars_array)
+        # indexs of this list holds cars in per page
+        cars_in_page.append(cars_onepage)
         xpath = f"//*[@id='searchResultsSearchForm']/div/div[4]/div[3]/div[1]/ul/li[1{i}]"
         prev_next_button=browser.find_element_by_xpath(xpath).find_element_by_css_selector("a")
 
@@ -136,8 +138,10 @@ def fetchDataAllOfThem(cars_array):
             i+=1
 
 carss=[]
-fetchDataAllOfThem(carss)
+cars_in_page=[]
+fetchDataAllOfThem(carss,cars_in_page)
 
 print(f"araba sayısı:{len(carss)} ")
+print(f"cars:{cars_in_page}")
 time.sleep(5)
 browser.close()
