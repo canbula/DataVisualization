@@ -17,10 +17,10 @@ browser = webdriver.Chrome(f"{os.getcwd()}/chromedriver", options=chrome_options
 link = "https://www.sahibinden.com/alfa-romeo?pagingSize=50"
 browser.get(link)
 time.sleep(2)
-cars = browser.find_elements(by=By.CSS_SELECTOR, value='.searchResultsItem')
+cars = browser.find_elements(by=By.CSS_SELECTOR, value='.searchResultsItem:not(.nativeAd)')
 car_list = []
 while True:
-    cars = browser.find_elements(by=By.CSS_SELECTOR, value='.searchResultsItem')
+    cars = browser.find_elements(by=By.CSS_SELECTOR, value='.searchResultsItem:not(.nativeAd)')
     for c in cars:
         time.sleep(random.random())
         model = c.find_elements(by=By.CSS_SELECTOR, value='.searchResultsTagAttributeValue')
