@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<div class="container text-center">
+    <h1>{{ title }}</h1>
+    <div class="row">
+        <div class="col-md-8">
+            <table class="table table-striped table-hover fixed_header">
+                <thead>
+                    <tr>
+                        <th>Model</th>
+                        <th>Year</th>
+                        <th>KM</th>
+                        <th>Color</th>
+                        <th>Price</th>
+                        <th>Location</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for car in cars %}
+                    <tr>
+                        <td>{{ car.model }} {{ car.version }}</td>
+                        <td>{{ car.year }}</td>
+                        <td>{{ car.km }}</td>
+                        <td>{{ car.color }}</td>
+                        <td>{{ car.price }}</td>
+                        <td>{{ car.location }}</td>
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-4">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Statistics</h5>
+                    <p class="card-text">Numbers of Cars: {{ cars|length }}</p>
+                    <p class="card-text">Average Price: {{ average_price }}</p>
+                    <p class="card-text">Average KM: {{ average_km }}</p>
+                    <p class="card-text">Average Year: {{ average_year }}</p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">KM vs. Price</h5>
+                    <img src="data:image/png;base64, {{ km_vs_price }}" alt="KM vs. Price">
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Models</h5>
+                    <img src="data:image/png;base64, {{ model_histogram }}" alt="Models">
+                </div>
+            </div>
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Top Cities</h5>
+                    <img src="data:image/png;base64, {{ city_pie }}" alt="Top Cities">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    var th = document.getElementsByTagName('th');
+    var td = document.getElementsByTagName('td');
+    for (var i = 0; i < th.length; i++) {
+        th[i].style.width = td[i].offsetWidth + 'px';
+    }
+    var images = document.getElementsByTagName('img');
+    for (var i = 0; i < images.length; i++) {
+        images[i].addEventListener('mousemove', function (e) {
+            this.style.transform = 'scale(3)';
+        });
+        images[i].addEventListener('mouseout', function (e) {
+            this.style.transform = 'scale(1)';
+        });
+    }
+</script>
+<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.min.js" integrity="sha384-heAjqF+bCxXpCWLa6Zhcp4fu20XoNIA98ecBC1YkdXhszjoejr5y9Q77hIrv8R9i" crossorigin="anonymous"></script>
+</body>
+</html>
