@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+h1 {
+    margin: 5rem 0;
+}
+
+.fixed_header {
+    display: block;
+    overflow: auto;
+    height: 650px;
+    width: 100%;
+    border: 1px dashed black;
+}
+
+thead {
+    background-color: white;
+    position: sticky;
+    top: 0;
+}
+
+.fixed_header thead tr th {
+    text-align: left;
+}
+
+.fixed_header tbody tr td {
+    text-align: left;
+}
+
+.image-clone {
+    display: none;
+}
+
+img:not(.image-clone) {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.card:has(img) {
+    cursor: pointer;
+}
+
+.card {
+    position: relative;
+    z-index: 5;
+}
+
+.card:has(img)::after {
+    content: 'Hover over graph to view zoomed';
+    margin: 1rem 0;
+}
+
+.card:has(img):hover .image-clone {
+    display: unset;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 6;
+}
+
+.col-md-4:has(.card:hover) > .background-overlay {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.75);
+    z-index: 4;
+}

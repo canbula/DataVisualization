@@ -2,14 +2,11 @@ from flask import Flask, render_template, url_for
 from alfaromeo import AlfaRomeo
 import os
 import numpy as np
-import pandas as pd
-import matplotlib
 import matplotlib.pyplot as plt
 import io
 import base64
 
 app = Flask(__name__)
-
 
 @app.route('/')
 def index():

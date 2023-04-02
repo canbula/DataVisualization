@@ -14,8 +14,7 @@ class AlfaRomeo:
         self.chrome_options = Options()
         if headless:
             self.chrome_options.add_argument("--headless")
-        self.chrome_options.add_argument("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
-                                         "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36")
+        self.chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36")
         self.browser = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=self.chrome_options)
         self.link = link
         self.csv_file = csv_file
