@@ -1,0 +1,56 @@
+.fixed_header tbody {
+    display:block;
+    overflow: auto;
+    height: 650px;
+    width: 100%;
+}
+
+.fixed_header thead, tbody tr {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+.fixed_header thead {
+    width: calc( 100% - 1em );
+}
+
+.fixed_header thead tr th {
+    text-align: left;
+}
+
+.fixed_header tbody tr td {
+    text-align: left;
+}
+
+.fixed_header .car-model{
+    width:250px;
+}
+
+.card{
+    margin-bottom:10px;
+}
+
+.card-body img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+#card-big{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-80%, -50%);
+}
+
+#dark-overlay{
+    position:fixed;
+    width:100%;
+    height:100%;
+    top:0;
+    left:0;
+    display:none;
+    background: rgb(0 0 0 / 50%);
+}
