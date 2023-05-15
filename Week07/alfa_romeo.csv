@@ -1,0 +1,866 @@
+model,version,year,km,color,price,location
+Giulietta,1.6 JTD Distinctive,2014,149000,Kırmızı,489000,Antalya Muratpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2015,89000,Beyaz,665900,Antalya Muratpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2012,137000,Kırmızı,516000,Sivas Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2015,259000,Siyah,559850,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2012,170000,Beyaz,422000,Çankırı Merkez
+Giulietta,1.4 TB MultiAir Progression Pluse,2012,83000,Beyaz,540000,İstanbul Sarıyer
+Giulietta,1.6 JTD Distinctive,2011,247000,Beyaz,422500,Bursa Osmangazi
+Giulietta,1.4 TB MultiAir Distinctive,2012,115000,Beyaz,628000,Eskişehir Tepebaşı
+146,1.6 TS,1997,22000,Siyah,142000,İzmir Buca
+Giulietta,1.6 JTD Distinctive,2011,168000,Beyaz,520000,Ankara Etimesgut
+Giulietta,1.4 TB Distinctive,2011,193000,Siyah,455000,İstanbul Kartal
+156,2.0 JTS  Distinctive,2004,198000,Füme,285000,Bursa Mustafakemalpaşa
+145,1.7,1996,182000,Gümüş Gri,115000,İstanbul Ataşehir
+159,1.9 JTD Distinctive Plus,2011,311000,Siyah,375000,Antalya Konyaaltı
+Giulietta,1.4 TB MultiAir Distinctive,2012,94000,Beyaz,549000,Konya Karatay
+147,1.6 TS Black Line,2007,320000,Siyah,195000,Kocaeli Gebze
+Giulietta,1.6 JTD Progression Plus,2011,230000,Beyaz,395000,İstanbul Eyüpsultan
+Giulietta,1.6 JTD Distinctive,2012,212000,Kırmızı,415000,Antalya Kepez
+159,1.9 JTD Distinctive,2008,259000,Lacivert,400000,İstanbul Sancaktepe
+Giulietta,1.4 TB Distinctive,2011,144000,Kırmızı,545000,Antalya Konyaaltı
+Giulietta,1.4 TB MultiAir Distinctive,2012,160000,Gri,550000,İstanbul Kartal
+147,1.6 TS Distinctive,2004,257000,Siyah,225750,İstanbul Bağcılar
+Giulietta,1.4 TB MultiAir Distinctive,2013,153000,Füme,570000,Bursa Nilüfer
+156,1.6 TS,2001,317000,Lacivert,240000,İzmir Gaziemir
+146,1.4 TS,1998,108000,Gri,135000,Erzurum Yakutiye
+159,1.9 JTD Distinctive Plus,2007,305000,Siyah,415000,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2014,139800,Beyaz,565000,Ankara Etimesgut
+159,1.9 JTD Distinctive Plus,2008,202000,Siyah,410000,Uşak Merkez
+147,1.6 TS Collezione,2008,191000,Siyah,345000,İzmir Buca
+159,1.9 JTD Distinctive Plus,2008,213800,Siyah,425000,Ordu Altınordu
+GTV,2.0 TB,1997,200000,Gümüş Gri,500000,İstanbul Arnavutköy
+156,1.6 TS Distinctive,2005,262000,Siyah,247900,Ankara Keçiören
+Giulietta,1.6 JTD Super TCT,2016,105500,Gri,733000,Zonguldak Ereğli
+147,1.6 TS Distinctive,2004,250000,Siyah,160000,Isparta Merkez
+Giulietta,1.6 JTD Distinctive,2014,156000,Siyah,535000,İstanbul Esenyurt
+Giulietta,1.6 JTD Super TCT,2017,82000,Kırmızı,725000,İstanbul Ataşehir
+159,1.9 JTD Distinctive Plus,2011,185000,Beyaz,513500,Ankara Yenimahalle
+Giulietta,1.4 TB MultiAir Distinctive,2012,156000,Beyaz,450000,İstanbul Sarıyer
+146,1.4 TS,1997,259000,Beyaz,140000,Zonguldak Ereğli
+147,1.6 TS Distinctive,2005,265000,Gri,162000,İstanbul Esenyurt
+Giulietta,1.6 JTD Distinctive,2013,142000,Beyaz,470000,İstanbul Tuzla
+147,1.6 TS Progression,2003,274000,Mavi,205000,Antalya Muratpaşa
+146,1.6 L,1996,214000,Kırmızı,96000,Ankara Sincan
+Giulietta,1.4 TB MultiAir Distinctive,2012,57000,Beyaz,575000,Mersin Yenişehir
+156,1.6 TS Progression,2004,239000,Şampanya,245000,Ankara Etimesgut
+156,1.6 TS,2001,356300,Kırmızı,145000,Antalya Kepez
+147,1.6 TS Progression,2009,39000,Siyah,355000,Antalya Muratpaşa
+Giulietta,1.6 JTD Distinctive,2011,111000,Beyaz,475000,Ankara Çankaya
+156,2.0 TS Executive,2002,347000,Beyaz,172500,Bolu Merkez
+156,1.6 TS Distinctive,2004,231375,Gri,240000,İzmir Karşıyaka
+156,1.6 TS Distinctive,2004,240000,Lacivert,229000,İstanbul Bağcılar
+147,1.6 TS Distinctive,2003,170000,Gri,175000,Konya Sarayönü
+Giulietta,1.6 JTD Super TCT,2017,155000,Beyaz,593500,Antalya Gazipaşa
+159,1.9 JTD Distinctive Plus,2008,209000,Şampanya,575000,İstanbul Üsküdar
+Giulietta,1.6 JTD Distinctive,2011,179000,Kırmızı,493500,Sinop Boyabat
+Giulietta,1.4 TB MultiAir Distinctive,2013,10729,Kırmızı,689950,İstanbul Sancaktepe
+Giulietta,1.4 TB MultiAir Distinctive,2014,68000,Gri,740000,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2012,165000,Beyaz,477500,İstanbul Bağcılar
+156,1.6 TS Distinctive,2004,256000,Kırmızı,267500,Ordu Altınordu
+147,1.6 TS Progression,2004,250000,Kırmızı,199000,İstanbul Bağcılar
+147,1.6 TS Distinctive,2004,260000,Mavi,220000,Antalya Alanya
+Giulietta,1.6 JTD Progression Plus,2014,128000,Beyaz,485000,İzmir Menderes
+Giulietta,1.6 JTD Progression Plus,2014,224000,Beyaz,482000,Ankara Pursaklar
+156,1.6 TS Distinctive,2004,250000,Mavi,215000,İstanbul Bayrampaşa
+156,2.0 TS Distinctive,2001,280000,Gümüş Gri,180000,Mardin Artuklu
+MiTo,1.4 T MultiAir TCT Sportivo,2011,131000,Beyaz,515000,Malatya Yeşilyurt
+Giulietta,1.6 JTD Distinctive,2014,261000,Füme,415000,Muğla Menteşe
+156,1.6 TS Distinctive,2006,205000,Siyah,290000,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2015,108000,Gri,700000,İstanbul Sarıyer
+156,2.0 TS,2001,280000,Kırmızı,232000,İstanbul Bağcılar
+156,1.6 TS Distinctive,2004,209700,Mavi,255000,Eskişehir Odunpazarı
+MiTo,1.3 JTD City,2012,179000,Kırmızı,410000,İstanbul Tuzla
+Giulietta,1.6 JTD Distinctive,2012,204000,Beyaz,427000,Hatay Arsuz
+MiTo,1.3 JTD City,2013,171000,Beyaz,365000,İstanbul Pendik
+Giulietta,1.6 JTD Distinctive,2015,141000,Beyaz,540000,Balıkesir Altıeylül
+156,1.6 TS Distinctive,2004,300000,Kırmızı,257000,Denizli Merkezefendi
+Giulietta,1.6 JTD Super TCT,2017,98000,Gümüş Gri,730000,İstanbul Sultangazi
+156,2.0 TS Distinctive,2002,237000,Kırmızı,235000,Muğla Bodrum
+Giulietta,1.6 JTD Super TCT,2018,70500,Beyaz,670000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Distinctive,2013,277000,Siyah,388000,İstanbul Pendik
+159,1.9 JTD Distinctive,2007,198200,Siyah,330000,Ankara Keçiören
+159,1.9 JTD Distinctive,2007,297000,Siyah,395000,Malatya Yeşilyurt
+146,1.4 TS,1999,221000,Kırmızı,131000,İstanbul Üsküdar
+156,1.6 TS,2000,30000,Kırmızı,142000,Sivas Merkez
+159,1.9 JTD Distinctive,2006,338000,Siyah,305000,İstanbul Tuzla
+159,1.9 JTD Distinctive Plus,2007,415000,Siyah,325000,Konya Selçuklu
+Giulietta,1.4 TB MultiAir Distinctive,2011,118000,Siyah,600000,İstanbul Esenler
+146,1.4 TS,1998,230000,Siyah,103750,İzmir Bergama
+147,1.6 TS Progression,2004,172000,Siyah,205000,Şanlıurfa Haliliye
+147,1.6 TS Progression,2004,172000,Siyah,205000,Şanlıurfa Haliliye
+Giulietta,1.6 JTD Sprint,2020,34000,Gri,915000,İstanbul Bahçelievler
+147,1.6 TS Distinctive,2003,185000,Gri,245000,İstanbul Beykoz
+156,1.6 TS Distinctive,2006,192000,Siyah,310000,Ankara Mamak
+156,1.6 TS Distinctive,2005,250000,Şampanya,230000,Bursa Nilüfer
+147,1.6 TS Progression,2005,295250,Gri,227750,Şanlıurfa Haliliye
+156,1.6 TS,2001,197000,Gri,205000,Malatya Battalgazi
+147,1.6 TS Distinctive,2004,124500,Lacivert,255000,Bursa Osmangazi
+Giulietta,1.4 TB MultiAir Distinctive,2014,68000,Gri,199000,Malatya Battalgazi
+Giulietta,1.4 TB MultiAir Distinctive,2012,173000,Beyaz,639000,İstanbul Küçükçekmece
+MiTo,1.4 T MultiAir TCT Sportivo,2013,122540,Lacivert,505000,İstanbul Sarıyer
+Giulietta,1.6 JTD Giulietta,2020,87500,Beyaz,727000,Antalya Serik
+156,1.6 TS,1998,320000,Bordo,165000,Kocaeli Gebze
+Giulietta,1.6 JTD Distinctive,2011,238000,Beyaz,555555,İstanbul Sarıyer
+Giulietta,1.6 JTD Progression,2017,97000,Kırmızı,615000,İstanbul Kağıthane
+Giulietta,1.6 JTD Progression Plus,2015,169500,Siyah,470000,Aydın Didim
+156,2.0 TS,1998,330000,Mavi,169500,Bursa Nilüfer
+Giulietta,1.4 TB MultiAir Distinctive,2012,172500,Beyaz,405000,Eskişehir Odunpazarı
+146,1.6 TS,1997,310000,Kırmızı,125000,İzmir Buca
+MiTo,1.3 JTD City,2012,142000,Kırmızı,355000,İstanbul Bağcılar
+159,1.9 JTD Distinctive Plus,2009,313000,Siyah,350000,Ankara Elmadağ
+Giulietta,1.6 JTD Super TCT,2016,87650,Beyaz,725000,Tokat Merkez
+159,1.9 JTD Progression,2007,228000,Siyah,375000,İstanbul Arnavutköy
+156,1.6 TS Distinctive,2004,299700,Kırmızı,300500,İstanbul Gaziosmanpaşa
+Giulietta,1.4 TB Progression Plus,2011,351000,Siyah,467500,Bursa Yıldırım
+MiTo,1.4 T MultiAir Quadrifoglio Verde,2011,145000,Beyaz,425000,İzmir Karşıyaka
+Giulietta,1.6 JTD Distinctive,2011,186000,Kırmızı,399000,İstanbul Gaziosmanpaşa
+MiTo,1.6 JTD Distinctive,2010,184500,Beyaz,335000,Trabzon Ortahisar
+Brera,2.2  JTS,2007,184000,Kırmızı,860000,Bursa Nilüfer
+Giulietta,1.4 TB MultiAir Distinctive,2013,75000,Beyaz,587500,İstanbul Kartal
+147,1.6 TS Distinctive,2004,264000,Füme,220000,İzmir Buca
+159,2.4 JTD Distinctive,2007,316000,Siyah,397500,Kocaeli Körfez
+Giulietta,1.6 JTD Progression,2017,137000,Füme,610000,Gaziantep Şahinbey
+Giulietta,1.6 JTD Progression,2016,66000,Kırmızı,615000,İzmir Gaziemir
+Giulietta,1.4 TB MultiAir Distinctive,2012,154000,Beyaz,500000,Kırıkkale Merkez
+146,1.4 TS,1998,321000,Bej,109000,Kahramanmaraş Onikişubat
+Giulietta,1.4 TB MultiAir Distinctive,2014,112000,Beyaz,620000,İstanbul Bakırköy
+166,2.0 TS,1999,281000,Siyah,160000,Kocaeli Başiskele
+156,1.6 TS Distinctive,2005,225000,Siyah,228500,Eskişehir Tepebaşı
+156,2.0 TS Executive,1999,208500,Lacivert,220000,Bursa Yıldırım
+Giulietta,1.4 TB MultiAir Distinctive,2015,99000,Beyaz,680000,İstanbul Esenyurt
+Giulietta,1.6 JTD Giulietta,2020,32000,Beyaz,765000,İstanbul Ataşehir
+Giulietta,1.6 JTD Distinctive,2015,236000,Beyaz,470000,İstanbul Sancaktepe
+146,1.4 TS,1998,350000,Siyah,126500,İzmir Karabağlar
+156,2.0 JTS  Distinctive,2004,215000,Siyah,275000,Konya Selçuklu
+Giulietta,1.4 TB Distinctive,2011,189290,Siyah,435000,Tekirdağ Çorlu
+MiTo,1.6 JTD Distinctive,2009,215000,Kırmızı,425000,Ankara Çankaya
+147,1.6 TS Collezione,2009,196000,Siyah,299999,İzmir Buca
+156,1.6 TS Distinctive,2005,114000,Siyah,325000,İzmir Karşıyaka
+146,1.4 TS,1998,308000,Kırmızı,175000,Antalya Kepez
+156,1.6 TS Distinctive,2005,259000,Kırmızı,245000,Tekirdağ Çerkezköy
+145,1.6 TS Sportivo,2000,224312,Siyah,159750,İstanbul Pendik
+145,1.4 TS STD,1998,254000,Kırmızı,120000,Tekirdağ Çorlu
+Giulietta,1.6 JTD Distinctive,2014,119000,Siyah,574500,Bursa Nilüfer
+Giulietta,1.4 TB MultiAir Super TCT,2016,135000,Gri,797000,Ankara Yenimahalle
+147,1.6 TS Distinctive,2003,258000,Beyaz,177000,Konya Meram
+146,2.0 Ti,1999,281000,Kırmızı,185000,İstanbul Üsküdar
+Giulietta,1.6 JTD Super TCT,2018,64000,Beyaz,795000,İstanbul Tuzla
+156,1.6 TS Distinctive,2005,327000,Siyah,225000,Ankara Gölbaşı
+Giulietta,1.6 JTD Distinctive,2014,94500,Beyaz,492000,İstanbul Sultangazi
+156,2.0 TS Selespeed,2000,307000,Gümüş Gri,235000,Tekirdağ Süleymanpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2014,109000,Siyah,665000,İstanbul Kadıköy
+GTV,2.0 TB,1996,125000,Bordo,410000,İstanbul Beşiktaş
+147,1.6 TS Progression,2004,191500,Gri,189000,Kilis Merkez
+Giulietta,1.4 TB Progression Plus,2013,120000,Kırmızı,454950,İstanbul Esenyurt
+Giulia,2.0 T Sprint,2020,9000,Beyaz,1750000,Adana Seyhan
+145,1.6 L,1997,197000,Yeşil,150000,İstanbul Beşiktaş
+156,1.6 TS Distinctive,2004,205000,Mavi,299000,İstanbul Güngören
+156,1.6 TS,2001,226000,Siyah,210000,Manisa Soma
+147,1.6 TS Distinctive,2004,262000,Siyah,295000,İstanbul Kağıthane
+156,1.6 TS Distinctive,2004,237000,Bordo,280000,İzmir Karabağlar
+Giulietta,1.6 JTD Distinctive,2014,109000,Siyah,510000,İstanbul Ümraniye
+Giulietta,1.6 JTD Distinctive,2012,180000,Beyaz,460000,İstanbul Maltepe
+147,1.6 TS Distinctive,2004,266000,Mavi,210000,İzmir Çiğli
+Giulietta,1.4 TB MultiAir Distinctive,2013,132000,Kırmızı,550000,İstanbul Beşiktaş
+156,1.6 TS,2000,300000,Mavi,175000,Erzurum Palandöken
+MiTo,1.4 T MultiAir TCT Sportivo,2012,110000,Sarı,565000,İstanbul Kadıköy
+MiTo,1.3 JTD City,2013,118000,Kırmızı,435000,Muğla Menteşe
+Giulietta,1.6 JTD Progression Plus,2011,307000,Beyaz,361400,Ankara Çankaya
+Brera,3.2 JTS Q4 Sky Window,2007,99000,Kırmızı,256500,İstanbul Sarıyer
+147,1.6 TS Distinctive,2004,287000,Gri,209000,Diyarbakır Çüngüş
+Giulietta,1.6 JTD Distinctive,2013,188000,Kırmızı,455000,İstanbul Kadıköy
+159,1.9 JTS Distinctive,2006,190000,Kırmızı,347000,Burdur Bucak
+Giulietta,1.6 JTD Distinctive,2014,94000,Kırmızı,528900,Aydın Nazilli
+147,2.0 TS Distinctive,2003,262000,Mavi,239750,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2012,70000,Beyaz,500000,Ankara Çankaya
+Giulietta,1.6 JTD Progression,2017,68000,Füme,670000,Bursa Osmangazi
+Giulietta,1.6 JTD Super TCT,2018,74000,Beyaz,649500,İstanbul Güngören
+Giulietta,1.6 JTD Distinctive,2014,176000,Beyaz,457500,Samsun Tekkeköy
+Giulietta,1.6 JTD Super TCT,2018,79000,Füme,680000,İzmir Bornova
+Giulietta,1.4 TB MultiAir Distinctive,2013,84000,Beyaz,553850,Kayseri Kocasinan
+GT,2.0 JTS Dis.Selespeed,2006,171000,Siyah,385000,İstanbul Sultangazi
+Giulietta,1.4 TB MultiAir Distinctive,2015,101000,Kırmızı,647000,İstanbul Fatih
+156,2.0 TS Selespeed,2001,224000,Gümüş Gri,212000,Adana Çukurova
+156,2.0 TS Selespeed,2001,224000,Kırmızı,223500,Sakarya Akyazı
+156,1.6 TS Distinctive,2004,242000,Gri,259900,Ankara Keçiören
+Brera,3.2 JTS Q4 Sky Window,2007,99000,Kırmızı,1100000,İstanbul Sarıyer
+156,1.6 TS Distinctive,2005,242000,Bordo,256500,Ankara Keçiören
+164,2.0 Turbo,1994,153000,Kahverengi,333000,Bursa Nilüfer
+Giulietta,1.6 JTD Progression,2016,155000,Beyaz,595000,İzmir Buca
+156,1.6 TS Distinctive,2004,238000,Gri,250000,İstanbul Ümraniye
+Giulietta,1.4 TB Distinctive,2012,49000,Kırmızı,540000,Antalya Konyaaltı
+147,1.6 TS Distinctive,2003,285000,Kırmızı,205000,Mersin Toroslar
+159,1.9 JTD Distinctive,2008,198000,Siyah,357900,İstanbul Bahçelievler
+146,1.6 TS,1999,260000,Gümüş Gri,133500,İstanbul Gaziosmanpaşa
+Giulietta,1.4 TB Progression Plus,2013,91300,Beyaz,510000,İzmir Buca
+Giulietta,1.4 TB Distinctive,2011,113000,Beyaz,550000,Manisa Şehzadeler
+159,1.9 JTS Distinctive,2006,183000,Bordo,360000,Kocaeli Körfez
+Giulietta,1.4 TB MultiAir Distinctive,2013,115000,Beyaz,695000,İzmir Karşıyaka
+156,1.6 TS,1999,350000,Beyaz,191500,Kocaeli İzmit
+146,1.4 TS,1998,307000,Yeşil,140000,İstanbul Silivri
+Giulietta,1.6 JTD Super TCT,2018,90000,Beyaz,689750,İstanbul Ataşehir
+Giulietta,1.4 TB MultiAir Distinctive,2015,152000,Kırmızı,830000,İstanbul Kadıköy
+146,1.6 L,1996,420000,Lacivert,63000,Sakarya Serdivan
+147,1.6 TS Distinctive,2004,242000,Gri,220000,Antalya Demre
+156,2.0 TS,1999,340250,Yeşil,170000,Bursa İnegöl
+145,1.4,1998,257000,Yeşil,125000,Bursa Mustafakemalpaşa
+156,2.0 TS Distinctive,2001,266000,Gümüş Gri,190000,Tekirdağ Çorlu
+MiTo,1.3 JTD City,2012,190000,Kırmızı,350000,Ankara Çankaya
+Giulietta,1.6 JTD Super TCT,2018,130000,Füme,765000,İstanbul Bağcılar
+147,1.6 TS Distinctive,2009,370000,Siyah,200000,İstanbul Avcılar
+Giulietta,1.6 JTD Progression,2017,179868,Kırmızı,590000,İstanbul Sultanbeyli
+156,2.0 TS Executive,1999,271000,Gümüş Gri,223000,Mersin Yenişehir
+159,1.9 JTS Distinctive,2008,302000,Siyah,389500,Mersin Mezitli
+147,1.6 TS Distinctive,2004,215500,Şampanya,253000,Afyonkarahisar Merkez
+156,1.6 TS Distinctive,2005,300000,Kırmızı,245000,Adana Çukurova
+Giulietta,1.6 JTD Progression Plus,2015,151000,Beyaz,440000,Gaziantep Şahinbey
+159,1.9 JTS Distinctive,2008,139000,Siyah,525000,Kırklareli Lüleburgaz
+Giulietta,1.6 JTD Super TCT,2017,111000,Gümüş Gri,664000,İzmir Karşıyaka
+156,1.6 TS Distinctive,2004,365000,Gri,250000,Çanakkale Ezine
+145,1.6,1997,306000,Beyaz,112500,İstanbul Beylikdüzü
+156,1.6 TS,2001,306000,Gri,168500,Bursa Nilüfer
+156,1.6 TS,2000,283000,Lacivert,175000,Ankara Sincan
+Giulietta,1.4 TB MultiAir Distinctive,2012,165000,Siyah,624000,Karaman Merkez
+159,1.9 JTD Distinctive,2007,283000,Gümüş Gri,345000,Bursa Yıldırım
+147,2.0 TS Selespeed Distinctive,2003,230000,Siyah,285000,Muğla Bodrum
+Giulietta,1.4 TB MultiAir Distinctive,2012,165000,Kırmızı,525000,Ankara Keçiören
+156,1.6 TS Distinctive,2005,239000,Gri,230000,Aydın Söke
+Giulietta,1.6 JTD Super TCT,2018,86500,Beyaz,629500,İstanbul Bağcılar
+Giulietta,1.6 JTD Super TCT,2016,64400,Beyaz,653000,İstanbul Maltepe
+Giulietta,1.4 TB MultiAir Distinctive,2012,130000,Kırmızı,525000,Antalya Alanya
+Giulia,2.0 T Sprint,2020,8300,Beyaz,1705000,Mersin Toroslar
+Giulietta,1.6 JTD Distinctive,2015,278000,Beyaz,385000,İstanbul Pendik
+Giulietta,1.4 TB MultiAir Distinctive,2013,196575,Beyaz,584900,Hatay Antakya
+Giulietta,1.6 JTD Distinctive,2014,155000,Beyaz,435000,İstanbul Başakşehir
+Giulietta,1.4 TB MultiAir Distinctive,2013,136500,Beyaz,588000,Adana Seyhan
+Giulietta,1.6 JTD Distinctive,2013,150000,Beyaz,485000,İzmir Gaziemir
+159,1.9 JTD Distinctive Plus,2007,285000,Kahverengi,310000,Ankara Etimesgut
+159,1.9 JTD Distinctive Plus,2009,172800,Bordo,525000,İstanbul Bahçelievler
+Giulietta,1.6 JTD Distinctive,2013,209000,Mavi,465000,İstanbul Ümraniye
+Giulietta,1.75 TBI Quadrifoglio Verde,2011,165000,Beyaz,615000,Eskişehir Odunpazarı
+147,1.6 TS Distinctive,2003,335000,Siyah,235000,Antalya Muratpaşa
+156,1.6 TS Distinctive,2006,266000,Siyah,269500,İzmir Bayraklı
+146,1.6 L,1996,323000,Füme,112500,Mersin Yenişehir
+Giulietta,1.6 JTD Distinctive,2011,237000,Beyaz,465000,Ankara Keçiören
+Giulietta,1.4 TB MultiAir Distinctive,2012,122000,Kırmızı,575000,İstanbul Beykoz
+Giulietta,1.6 JTD Distinctive,2012,225000,Kırmızı,447900,İzmir Bayraklı
+Giulietta,1.6 JTD Super TCT,2016,154000,Gri,680000,Ankara Yenimahalle
+Giulietta,1.6 JTD Distinctive,2014,140000,Mavi,520000,Bilecik Bozüyük
+146,1.6 L,1997,249000,Siyah,129750,Isparta Merkez
+156,1.6 TS Distinctive,2006,244000,Siyah,250000,Mersin Tarsus
+156,2.0 TS Selespeed,2000,321000,Yeşil,209000,Ankara Etimesgut
+156,2.0 TS Distinctive,2000,343500,Füme,189900,Ankara Etimesgut
+147,1.6 TS Distinctive,2006,350000,Gümüş Gri,219750,Edirne Merkez
+Giulietta,1.6 JTD Super TCT,2018,92300,Beyaz,728000,Antalya Alanya
+146,1.6 L,1997,241000,Kırmızı,140000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Progression,2017,102000,Füme,600000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Giulietta,2020,18000,Kırmızı,785000,İstanbul Bakırköy
+Giulietta,1.6 JTD Distinctive,2014,85000,Beyaz,535000,Bursa Nilüfer
+Giulietta,1.6 JTD Super TCT,2016,73000,Siyah,656000,İstanbul Eyüpsultan
+Giulietta,1.6 JTD Distinctive,2013,151000,Siyah,470000,Bursa Nilüfer
+Giulietta,1.4 TB MultiAir Distinctive,2012,122300,Beyaz,520000,Trabzon Yomra
+Giulietta,1.4 TB Progression Plus,2011,137500,Beyaz,418000,Van İpekyolu
+145,1.7,1996,215000,Kırmızı,165000,Eskişehir Odunpazarı
+156,1.6 TS,2000,226000,Lacivert,183000,Afyonkarahisar Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2012,64350,Beyaz,573000,Antalya Serik
+MiTo,1.4 T Distinctive,2009,179500,Kırmızı,440000,Bursa Nilüfer
+156,2.0 TS Distinctive,2001,219000,Lacivert,210000,Kastamonu Merkez
+146,1.6 TS,1998,178000,Kırmızı,88900,Ankara Pursaklar
+156,1.6 TS Distinctive,2006,288000,Siyah,254900,Ankara Keçiören
+156,1.6 TS Distinctive,2006,321000,Gümüş Gri,256000,Ankara Çankaya
+147,1.6 TS Distinctive,2004,310000,Kırmızı,252500,Bursa Osmangazi
+Giulietta,1.6 JTD Distinctive,2013,172500,Beyaz,495000,İstanbul Ümraniye
+Giulietta,1.6 JTD Distinctive,2012,145000,Beyaz,425000,Kocaeli İzmit
+156,1.6 TS Distinctive,2004,330000,Bordo,270000,Bursa Mudanya
+166,2.0 TB,1999,289000,Gümüş Gri,230000,İstanbul Çekmeköy
+Giulietta,1.6 JTD Distinctive,2011,179500,Beyaz,459500,Ankara Altındağ
+Giulietta,1.4 TB MultiAir Progression Pluse,2012,176897,Beyaz,528000,Ankara Çankaya
+Giulia,2.0 T Veloce,2022,9000,Gri,2425000,Mersin Yenişehir
+Giulietta,1.4 TB MultiAir Distinctive,2011,185000,Beyaz,469000,Edirne Merkez
+Giulietta,1.6 JTD Progression Plus,2011,185000,Siyah,385000,Ankara Çankaya
+Giulietta,1.6 JTD Distinctive,2015,126000,Beyaz,510000,İstanbul Kartal
+Giulietta,1.6 JTD Distinctive,2011,249000,Siyah,385000,Antalya Konyaaltı
+159,1.9 JTD Distinctive,2006,271000,Gümüş Gri,335000,Bursa Mustafakemalpaşa
+156,2.0 TS Distinctive,2002,208000,Gümüş Gri,285000,Bursa Osmangazi
+Giulietta,1.6 JTD Distinctive,2013,164500,Siyah,460000,İstanbul Küçükçekmece
+146,1.6 L,1996,300000,Şampanya,113000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Super TCT,2018,157000,Gri,652500,Antalya Kepez
+Giulietta,1.6 JTD Progression,2016,168000,Kırmızı,605500,Antalya Manavgat
+Giulietta,1.6 JTD Giulietta,2020,74000,Beyaz,735000,Mersin Akdeniz
+156,1.6 TS,2001,252000,Siyah,198000,Antalya Kepez
+146,1.6 L,1996,262500,Kırmızı,130000,Aydın Efeler
+159,1.9 JTD Distinctive,2008,256000,Siyah,395000,Artvin Borçka
+156,1.6 TS Distinctive,2004,228500,Füme,282500,İstanbul Kartal
+147,1.9 JTD Q2,2003,276000,Yeşil,290000,İzmir Kemalpaşa
+159,1.9 JTD Distinctive,2006,260000,Siyah,360000,Antalya Muratpaşa
+156,2.0 TS,1998,513000,Siyah,155000,İstanbul Esenyurt
+Giulietta,1.6 JTD Giulietta,2020,31186,Gri,798500,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2014,100000,Beyaz,525000,İstanbul Küçükçekmece
+156,1.6 TS Distinctive,2006,206000,Gri,240000,Hatay Yayladağı
+159,1.9 JTD Distinctive Plus,2007,278000,Siyah,500000,Kars Merkez
+Giulietta,1.6 JTD Distinctive,2014,147000,Siyah,447000,Antalya Kemer
+156,2.0 TS,2000,306000,Gümüş Gri,230000,Bursa Osmangazi
+156,1.6 TS Distinctive,2004,240000,Lacivert,224750,İstanbul Bağcılar
+147,1.6 TS Progression,2004,210000,Gümüş Gri,223000,Diyarbakır Yenişehir
+156,2.0 TS Selespeed,2001,240000,Gümüş Gri,223000,İstanbul Kartal
+GT,2.0 JTS Distinctive,2006,167000,Lacivert,305000,İstanbul Zeytinburnu
+156,2.0 TS Selespeed,2001,304000,Gümüş Gri,180000,Erzurum Palandöken
+GT,2.0 JTS Dis.Selespeed,2008,211000,Kırmızı,319900,İstanbul Ümraniye
+Giulietta,1.4 TB Progression Plus,2012,217500,Beyaz,410000,Mersin Mezitli
+Giulietta,1.6 JTD Giulietta,2020,65000,Siyah,759000,İstanbul Üsküdar
+Giulietta,1.6 JTD Progression,2016,129782,Beyaz,630500,İstanbul Kartal
+MiTo,1.4 T Distinctive,2010,147000,Beyaz,395000,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2014,100000,Siyah,525000,İstanbul Şişli
+156,1.6 TS Distinctive,2004,380000,Siyah,210000,Kayseri Kocasinan
+Giulietta,1.6 JTD Progression,2018,82500,Gri,599000,İstanbul Üsküdar
+159,1.9 JTD Distinctive,2008,317750,Siyah,349500,Antalya Alanya
+Giulietta,1.6 JTD Distinctive,2013,98550,Beyaz,519000,İstanbul Sarıyer
+Giulietta,1.6 JTD Progression Plus,2012,300000,Kırmızı,425000,Gaziantep İslahiye
+Giulietta,1.6 JTD Distinctive,2013,176000,Beyaz,374900,Kayseri Kocasinan
+159,1.9 JTD Distinctive,2007,313000,Siyah,330000,İstanbul Eyüpsultan
+145,1.7,1995,111111,Yeşil,95000,İstanbul Küçükçekmece
+147,1.6 TS Progression,2005,210000,Siyah,219500,Ankara Etimesgut
+145,1.6 L,1996,209000,Lacivert,127000,İzmir Çiğli
+MiTo,1.4 T MultiAir Quadrifoglio Verde,2011,105000,Beyaz,420000,İstanbul Beylikdüzü
+Giulietta,1.4 TB MultiAir Distinctive,2011,195000,Kırmızı,473500,Kayseri Kocasinan
+Giulia Quadrifoglio,2.9,2017,6859,Kırmızı,5400000,İstanbul Maltepe
+159,1.9 JTD Distinctive Plus,2007,292000,Siyah,325000,Bursa Osmangazi
+Giulietta,1.6 JTD Progression,2016,106000,Beyaz,635000,Ankara Yenimahalle
+159,2.4 JTD Distinctive,2007,225000,Beyaz,339000,İstanbul Sarıyer
+156,1.6 TS,2001,310000,Gri,184000,Ankara Çankaya
+Giulietta,1.6 JTD Progression Plus,2011,205000,Bordo,400000,Muğla Milas
+Giulietta,1.6 JTD Distinctive,2014,156344,Beyaz,524000,Kocaeli İzmit
+156,1.6 TS Distinctive,2006,175000,Gümüş Gri,338000,Ankara Sincan
+159,1.9 JTD Distinctive Plus,2007,208900,Siyah,410000,Hatay Dörtyol
+156,1.6 TS Distinctive,2004,279000,Kırmızı,221750,İstanbul Kartal
+Giulietta,1.6 JTD Progression Plus,2015,230850,Beyaz,435000,Ankara Çankaya
+156,1.9 JTD  Impression,1998,280000,Gri,319000,Ankara Keçiören
+Giulia,2.0 T Veloce,2022,13000,Kırmızı,2950000,Bursa Nilüfer
+Giulietta,1.6 JTD Distinctive,2014,92600,Beyaz,529000,Gaziantep Şehitkamil
+GT,2.0 JTS Distinctive,2006,193000,Mavi,317950,Antalya Muratpaşa
+Giulietta,1.6 JTD Super TCT,2018,59200,Kırmızı,749000,İstanbul Üsküdar
+Giulietta,1.6 JTD Progression Plus,2014,199500,Beyaz,435000,Ankara Çankaya
+Giulietta,1.6 JTD Distinctive,2014,104200,Siyah,525000,Kayseri Talas
+156,1.6 TS Distinctive,2005,186000,Şampanya,275000,İzmir Karşıyaka
+Giulietta,1.4 TB MultiAir Distinctive,2011,199000,Bordo,385000,İstanbul Kartal
+147,1.6 TS Distinctive,2005,266000,Siyah,240000,İzmir Beydağ
+Giulietta,1.6 JTD Distinctive,2014,185000,Siyah,490000,Sakarya Erenler
+MiTo,1.4 T MultiAir TCT,2012,129000,Beyaz,485000,Kocaeli Gebze
+156,2.0 TS Selespeed,2001,306000,Mavi,225000,İzmir Konak
+147,1.6 TS Distinctive,2003,174000,Gri,233000,Antalya Muratpaşa
+156,2.0 TS,1999,259000,Gri,170000,Ankara Etimesgut
+159,1.9 JTD Distinctive,2006,229266,Siyah,390000,İzmir Bornova
+Giulietta,1.6 JTD Distinctive,2014,115000,Beyaz,560000,Kahramanmaraş Dulkadiroğlu
+156,2.0 TS Selespeed,2001,245000,Yeşil,210000,Balıkesir Edremit
+Giulietta,1.6 JTD Distinctive,2015,215000,Kırmızı,450000,İzmir Gaziemir
+145,1.4 TS STD,1999,313000,Kırmızı,119000,Bursa Osmangazi
+159,1.8 Distinctive,2009,240000,Siyah,429000,Zonguldak Ereğli
+Giulietta,1.6 JTD Distinctive,2011,295000,Kırmızı,361000,Bursa Osmangazi
+Giulietta,1.4 TB MultiAir Distinctive,2014,71000,Beyaz,646000,İzmir Buca
+156,1.6 TS Distinctive,2004,146500,Siyah,279900,İzmir Bayraklı
+Giulietta,1.6 JTD Progression,2016,162500,Beyaz,595000,İzmir Karabağlar
+Giulietta,1.6 JTD Super TCT,2016,230000,Mavi,552000,İstanbul Bağcılar
+156,2.0 TS Executive,1999,330000,Gri,195000,Ankara Keçiören
+147,1.6 TS Black Line,2005,252000,Füme,187000,Kocaeli Gölcük
+156,1.6 TS Distinctive,2006,265000,Siyah,257000,İstanbul Beylikdüzü
+156,1.6 TS Distinctive,2004,282000,Sarı,239750,Gaziantep Şahinbey
+MiTo,1.4 T Distinctive,2009,176000,Siyah,395000,Ankara Sincan
+MiTo,1.4 T MultiAir TCT,2011,124000,Kırmızı,438000,İzmir Çiğli
+Giulietta,1.4 TB MultiAir Distinctive,2015,81500,Beyaz,700000,Tekirdağ Süleymanpaşa
+147,1.6 TS Distinctive,2005,298000,Füme,215000,Ankara Etimesgut
+156,1.6 TS,2000,175000,Gri,240000,İstanbul Ataşehir
+Giulietta,1.6 JTD Distinctive,2013,175000,Beyaz,404000,İzmir Karşıyaka
+33,1.5 Giardinetta,1990,74000,Kırmızı,86000,Kocaeli İzmit
+156,2.0 TS,1999,260000,Gri,210000,Antalya Konyaaltı
+Giulietta,1.4 TB MultiAir Super TCT,2018,46000,Gri,885000,İstanbul Beşiktaş
+156,1.6 TS Distinctive,2004,171800,Füme,272000,Ankara Etimesgut
+Giulietta,1.6 JTD Distinctive,2015,222000,Beyaz,425000,Bursa İznik
+Giulietta,1.6 JTD Progression Plus,2012,195000,Kırmızı,490000,Antalya Muratpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2014,195000,Beyaz,525000,Kocaeli Gebze
+156,1.6 TS Distinctive,2006,154000,Füme,260000,İzmir Karabağlar
+MiTo,1.4 T MultiAir TCT,2011,124000,Kırmızı,175000,Kocaeli Gölcük
+Giulietta,1.4 TB MultiAir Distinctive,2014,146700,Gri,565000,İstanbul Silivri
+Giulietta,1.4 TB MultiAir Super TCT,2016,34000,Beyaz,765000,İstanbul Küçükçekmece
+147,1.6 TS Progression,2006,265000,Siyah,225000,İstanbul Gaziosmanpaşa
+Giulietta,1.4 TB Progression Plus,2011,120000,Beyaz,497000,Karabük Merkez
+156,1.6 TS,2002,217000,Beyaz,205000,Ankara Pursaklar
+147,1.6 TS Progression,2005,245000,Siyah,200000,Muğla Fethiye
+33,1.5 IE,1990,90000,Kırmızı,175000,İzmir Çeşme
+156,2.0 TS Distinctive,2002,245000,Beyaz,255000,İstanbul Esenyurt
+147,1.6 TS Distinctive,2005,214000,Gri,164000,Kocaeli Gölcük
+Giulietta,1.6 JTD Distinctive,2011,240000,Beyaz,340000,Bursa Mudanya
+Giulietta,1.4 TB MultiAir Distinctive,2015,155000,Beyaz,620000,Ankara Etimesgut
+156,1.6 TS,1999,150000,Gri,232000,Kocaeli Çayırova
+156,1.6 TS Distinctive,2004,259000,Siyah,270000,Bursa Mustafakemalpaşa
+Giulietta,1.6 JTD Giulietta,2021,8500,Mor,890000,İstanbul Kağıthane
+MiTo,1.4 T MultiAir Quadrifoglio Verde,2011,215000,Siyah,430000,Bursa Yıldırım
+156,2.0 TS,1999,341000,Bordo,199000,Aydın Efeler
+Giulietta,1.4 TB MultiAir Distinctive,2012,178500,Siyah,535000,Ankara Çankaya
+Giulietta,1.6 JTD Giulietta,2020,45000,Mavi,780000,İstanbul Başakşehir
+147,1.6 TS Progression,2007,200000,Kırmızı,226000,Ankara Keçiören
+Giulietta,1.6 JTD Super TCT,2018,180000,Füme,580000,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2012,256400,Beyaz,387500,Karaman Merkez
+Giulietta,1.4 TB MultiAir Progression Pluse,2012,82000,Beyaz,591000,İstanbul Eyüpsultan
+147,2.0 TS Selespeed Distinctive,2006,180000,Füme,350000,İstanbul Pendik
+147,1.6 TS Distinctive,2006,208500,Siyah,297500,İzmir Buca
+156,1.6 TS Distinctive,2004,203000,Turkuaz,275500,Ankara Keçiören
+156,1.6 TS Progression,2004,286000,Gri,299900,İstanbul Bağcılar
+159,1.9 JTD Distinctive Plus,2007,254000,Siyah,428000,İstanbul Ümraniye
+Giulietta,1.6 JTD Distinctive,2012,180000,Beyaz,400000,İstanbul Beykoz
+146,1.4 TS,1998,301000,Siyah,125000,Bursa Nilüfer
+147,1.6 TS Distinctive,2004,250000,Mavi,220000,İzmir Menemen
+147,1.6 TS Distinctive,2006,218000,Gümüş Gri,245000,Ankara Keçiören
+Giulietta,1.6 JTD Distinctive,2012,169700,Beyaz,479000,Ankara Çankaya
+Giulietta,1.6 JTD Distinctive,2015,143000,Füme,569000,Denizli Pamukkale
+Giulietta,1.6 JTD Distinctive,2015,113000,Kırmızı,610000,Tekirdağ Çerkezköy
+156,2.0 TS Distinctive,2002,188000,Gri,190000,Denizli Merkezefendi
+147,1.6 TS Distinctive,2007,236000,Siyah,280000,İstanbul Üsküdar
+156,1.6 TS Distinctive,2004,316000,Gri,260000,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2011,155000,Beyaz,510000,Sakarya Adapazarı
+156,2.0 TS,1999,290000,Bordo,140000,Tokat Başçiftlik
+145,1.7,1996,208000,Gri,139000,İzmir Torbalı
+159,1.9 JTD Distinctive Plus,2010,158000,Mavi,440000,İstanbul Eyüpsultan
+156,2.0 TS Selespeed,2000,317000,Gümüş Gri,230000,Kastamonu Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2011,168000,Siyah,480000,Antalya Kepez
+GT,2.0 JTS Distinctive,2006,171600,Siyah,323000,İstanbul Maltepe
+159,1.9 JTD Distinctive,2007,286000,Gri,380000,Adana Sarıçam
+Giulietta,1.4 TB MultiAir Distinctive,2015,155100,Beyaz,560000,Muğla Milas
+Spider,2.0 TS,1996,190000,Gümüş Gri,545000,Antalya Konyaaltı
+156,1.6 TS,1998,387000,Siyah,150000,İstanbul Avcılar
+147,1.6 TS Distinctive,2004,180000,Gri,200000,İstanbul Esenler
+Giulietta,1.4 TB Progression Plus,2012,80600,Kırmızı,500000,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2013,210000,Kırmızı,386900,İstanbul Bağcılar
+147,1.6 TS Distinctive,2004,302000,Siyah,200000,İstanbul Maltepe
+Giulietta,1.6 JTD Progression Plus,2015,128000,Beyaz,518500,İstanbul Kağıthane
+MiTo,1.4 T MultiAir TCT,2012,112000,Kırmızı,469000,İstanbul Esenyurt
+166,3.0 Sportronic,2004,190000,Siyah,365000,İstanbul Kartal
+Sprint,1.7,1988,37000,Kırmızı,1050000,Ankara Gölbaşı
+Giulietta,1.6 JTD Distinctive,2014,135000,Gri,577000,Ankara Çankaya
+147,1.6 TS Progression,2006,219000,Bordo,192000,Ankara Çankaya
+156,1.6 TS Distinctive,2004,258000,Gümüş Gri,235000,Antalya Manavgat
+Giulietta,1.6 JTD Sprint,2020,41000,Kırmızı,895000,İstanbul Kadıköy
+Giulietta,1.6 JTD Distinctive,2011,226000,Beyaz,430000,Antalya Muratpaşa
+Giulia Quadrifoglio,2.9,2016,21000,Kırmızı,4700000,İstanbul Beşiktaş
+156,1.6 TS,2000,260302,Gri,230000,Muğla Yatağan
+Giulietta,1.6 JTD Distinctive,2011,196000,Beyaz,375000,Kütahya Merkez
+Spider,2.0 TS,1996,186000,Sarı,475000,Ankara Yenimahalle
+159,1.9 JTD Distinctive,2008,160000,Siyah,430000,Ankara Sincan
+MiTo,1.4 T MultiAir TCT,2012,162000,Kırmızı,509000,İstanbul Kartal
+156,1.6 TS Distinctive,2002,315000,Kırmızı,165000,İzmir Bornova
+Giulietta,1.4 TB MultiAir Distinctive,2015,33000,Kırmızı,749900,Ankara Akyurt
+156,2.0 TS,1999,155000,Gri,230000,Manisa Şehzadeler
+Giulietta,1.6 JTD Super TCT,2016,175000,Beyaz,639000,Ankara Akyurt
+Giulietta,1.4 TB MultiAir Distinctive,2012,122000,Beyaz,430000,Manisa Saruhanlı
+156,1.6 TS Distinctive,2005,283000,Beyaz,268000,Sivas Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2012,153000,Beyaz,475000,Gaziantep Şahinbey
+Giulietta,1.4 TB MultiAir Distinctive,2015,123000,Kırmızı,625000,Mersin Yenişehir
+Giulietta,1.6 JTD Distinctive,2015,238000,Beyaz,449000,Antalya Kepez
+Giulietta,1.4 TB MultiAir Distinctive,2015,117000,Kırmızı,735000,İstanbul Ümraniye
+Giulietta,1.4 TB MultiAir Distinctive,2012,165000,Beyaz,530000,Adana Seyhan
+Giulietta,1.6 JTD Super TCT,2017,89000,Gri,655000,Adana Seyhan
+159,1.9 JTD Distinctive,2007,203000,Gri,479000,Ankara Yenimahalle
+Giulietta,1.6 JTD Progression Plus,2015,190000,Beyaz,497500,İstanbul Büyükçekmece
+Giulia,2.0 Veloce,2017,50000,Lacivert,1895000,İstanbul Sarıyer
+156,1.6 TS,2000,260000,Siyah,195750,İstanbul Bahçelievler
+156,1.6 TS,1998,327000,Kırmızı,147500,Mersin Gülnar
+Giulietta,1.4 TB MultiAir Distinctive,2011,165000,Beyaz,390000,Isparta Merkez
+MiTo,1.4 T Distinctive,2010,188000,Beyaz,340000,Antalya Alanya
+Giulietta,1.6 JTD Giulietta,2020,80000,Beyaz,762750,Denizli Merkezefendi
+Giulietta,1.4 TB MultiAir Distinctive,2012,105000,Kırmızı,483000,İstanbul Kağıthane
+159,1.9 JTD Distinctive,2008,213000,Siyah,423000,Antalya Döşemealtı
+156,2.0 TS,1998,298000,Füme,200000,Kütahya Gediz
+146,1.6 L,1997,316000,Yeşil,139000,Denizli Pamukkale
+Giulietta,1.4 TB MultiAir Distinctive,2011,162300,Beyaz,485000,İstanbul Bayrampaşa
+Giulietta,1.4 TB MultiAir Distinctive,2013,215000,Kırmızı,483000,Antalya Aksu
+Giulietta,1.6 JTD Progression Plus,2011,138500,Kırmızı,432500,Bursa Osmangazi
+Giulietta,1.6 JTD Distinctive,2014,152200,Beyaz,490000,Edirne Merkez
+156,2.0 TS,2001,280000,Bordo,195000,İstanbul Ataşehir
+156,2.0 TS Selespeed,2001,305000,Siyah,190000,İzmir Çiğli
+Giulietta,1.6 JTD Progression Plus,2014,168000,Beyaz,397500,Kilis Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2012,80000,Kırmızı,625000,Isparta Yalvaç
+Giulietta,1.6 JTD Distinctive,2013,201000,Siyah,405000,İstanbul Üsküdar
+156,2.0 TS Selespeed,2000,228435,Lacivert,215000,İstanbul Başakşehir
+Giulietta,1.6 JTD Distinctive,2011,257000,Beyaz,390000,Aydın Efeler
+Giulietta,1.6 JTD Distinctive,2012,325000,Kırmızı,365000,Konya Karatay
+147,1.6 TS Distinctive,2005,190000,Gümüş Gri,216500,Kocaeli Gebze
+156,1.6 TS,2001,230000,Kırmızı,200000,Uşak Merkez
+Giulietta,1.6 JTD Progression Plus,2015,200000,Beyaz,480000,İstanbul Büyükçekmece
+159,1.9 JTS Distinctive,2007,178000,Bordo,380000,İstanbul Küçükçekmece
+Giulietta,1.6 JTD Distinctive,2014,174000,Siyah,465000,Bilecik Merkez
+MiTo,1.4 T MultiAir TCT Sportivo,2012,117250,Kırmızı,550000,Bolu Merkez
+156,1.6 TS Distinctive,2004,282000,Kırmızı,335000,İstanbul Maltepe
+MiTo,1.3 JTD City,2013,115600,Mavi,399000,İstanbul Avcılar
+146,1.4 TS,1998,250000,Mavi,150000,Karabük Safranbolu
+Giulietta,1.6 JTD Distinctive,2014,305000,Siyah,430000,İstanbul Sancaktepe
+159,1.9 JTD Distinctive Plus,2007,235000,Siyah,430000,Adana Çukurova
+147,1.6 TS Distinctive,2004,193000,Beyaz,210000,İstanbul Fatih
+Giulietta,1.6 JTD Distinctive,2013,214000,Beyaz,379750,Sakarya Adapazarı
+Giulietta,1.6 JTD Sprint,2020,23480,Kırmızı,880000,Ankara Altındağ
+156,2.0 TS,2000,258000,Gümüş Gri,238000,Tekirdağ Kapaklı
+156,1.6 TS Distinctive,2005,273000,Siyah,255000,Antalya Kepez
+156,2.0 TS,1999,257000,Bordo,209000,İstanbul Kartal
+159,1.9 JTD Distinctive,2006,328000,Siyah,368000,Bolu Merkez
+Giulietta,1.6 JTD Progression,2018,119000,Beyaz,588000,Bursa Nilüfer
+156,1.6 TS Distinctive,2006,246981,Siyah,275000,Kocaeli Gölcük
+146,1.6 TS,1999,240000,Kırmızı,117500,Konya Ereğli
+156,2.0 TS Distinctive,2003,196000,Gümüş Gri,245000,Ankara Keçiören
+156,1.6 TS Distinctive,2005,280000,Mavi,280000,Van İpekyolu
+156,1.6 TS Distinctive,2000,248500,Kırmızı,160000,Kocaeli Gebze
+156,2.0 TS,2000,259000,Gri,208000,Konya Selçuklu
+156,2.0 JTS  Distinctive,2002,252000,Gümüş Gri,195000,İzmir Konak
+MiTo,1.4 T MultiAir TCT Sportivo,2013,126000,Beyaz,590000,İstanbul Beşiktaş
+147,1.6 TS Distinctive,2006,275000,Turuncu,215000,İstanbul Başakşehir
+145,1.6 L,1997,271000,Gri,125000,İstanbul Beşiktaş
+Giulietta,1.6 JTD Distinctive,2015,198500,Kırmızı,495000,İzmir Karşıyaka
+146,2.0 Ti,1997,307600,Gümüş Gri,195500,İzmir Balçova
+147,1.6 TS Progression,2003,160000,Kırmızı,265000,Bilecik Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2015,74000,Kırmızı,744000,İstanbul Beşiktaş
+147,1.6 TS Distinctive,2004,273000,Kırmızı,178000,İstanbul Şişli
+Giulietta,1.4 TB MultiAir Distinctive,2014,134000,Kırmızı,674990,İstanbul Maltepe
+156,1.6 TS Distinctive,2004,279400,Gri,275000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Distinctive,2013,94217,Beyaz,525000,Afyonkarahisar Merkez
+Giulietta,1.6 JTD Distinctive,2012,139000,Beyaz,495000,İstanbul Eyüpsultan
+156,1.6 TS Progression,2004,272000,Siyah,245555,İstanbul Başakşehir
+Giulietta,1.4 TB MultiAir Super TCT,2018,65000,Beyaz,610000,İstanbul Bayrampaşa
+GTV,2.0 TB,1997,195000,Gümüş Gri,222250,Aydın Efeler
+Giulietta,1.4 TB MultiAir Distinctive,2012,248000,Kırmızı,434000,Konya Karatay
+147,1.6 TS Distinctive,2004,210000,Siyah,206000,İstanbul Esenyurt
+Giulietta,1.6 JTD Super TCT,2016,190000,Kırmızı,605000,Antalya Kemer
+147,1.6 TS Distinctive,2003,336000,Gri,162500,Ankara Etimesgut
+147,1.6 TS Distinctive,2008,147550,Siyah,290000,İzmir Bayraklı
+147,1.6 TS Distinctive,2006,196500,Gri,212500,İstanbul Ataşehir
+147,1.6 TS Distinctive,2005,253000,Mavi,214000,İstanbul Avcılar
+147,1.6 TS Distinctive,2008,229000,Kırmızı,260000,İzmir Karşıyaka
+Giulietta,1.4 TB MultiAir Distinctive,2011,153000,Siyah,395000,İstanbul Başakşehir
+Giulietta,1.4 TB Progression Plus,2013,110000,Beyaz,449000,Bursa Nilüfer
+MiTo,1.4 T Progression,2009,164000,Kırmızı,394500,Balıkesir Altıeylül
+Giulietta,1.6 JTD Giulietta,2020,58600,Gri,745000,Bursa Gemlik
+147,1.6 TS Distinctive,2006,195600,Kırmızı,251000,İstanbul Bakırköy
+159,1.9 JTD Distinctive Plus,2011,350000,Siyah,410000,İstanbul Esenler
+Giulietta,1.6 JTD Distinctive,2012,265000,Mavi,400000,İstanbul Avcılar
+Giulietta,1.6 JTD Progression,2016,29310,Siyah,665000,İstanbul Beşiktaş
+Giulietta,1.6 JTD Progression Plus,2014,177000,Beyaz,495000,Mersin Yenişehir
+155,2.0 TS Super Losso,1997,185000,Lacivert,155000,Mersin Toroslar
+156,1.6 TS,1998,231800,Bordo,225000,İzmir Karşıyaka
+Giulietta,1.6 JTD Distinctive,2014,96500,Beyaz,505000,İstanbul Çekmeköy
+Giulietta,1.6 JTD Progression,2016,140000,Beyaz,627000,Kocaeli Körfez
+156,1.6 TS Distinctive,2006,139000,Bej,325000,İzmir Karşıyaka
+156,1.6 TS Distinctive,2004,260000,Lacivert,259000,Muğla Köyceğiz
+147,1.6 TS Distinctive,2004,201000,Gümüş Gri,255000,Burdur Merkez
+Giulietta,1.6 JTD Distinctive,2011,152000,Beyaz,550000,İstanbul Kadıköy
+Spider,2.0 TS,1999,153500,Kırmızı,615000,İstanbul Üsküdar
+156,2.0 TS,1998,261000,Gümüş Gri,230000,Çorum Merkez
+Giulietta,1.6 JTD Distinctive,2012,196000,Beyaz,412000,İzmir Karşıyaka
+Giulietta,1.4 TB MultiAir Distinctive,2013,93500,Beyaz,600000,Ankara Yenimahalle
+MiTo,1.4 T MultiAir Quadrifoglio Verde,2011,144000,Siyah,460000,İstanbul Ümraniye
+147,1.6 TS Distinctive,2006,220000,Şampanya,210000,İzmir Karabağlar
+MiTo,1.4 T Distinctive,2012,170000,Kırmızı,534990,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2012,211000,Kırmızı,425000,Ankara Akyurt
+Giulietta,1.6 JTD Distinctive,2013,225000,Beyaz,450000,İstanbul Çatalca
+147,1.6 TS Distinctive,2006,225000,Kırmızı,280000,Bursa Yıldırım
+147,1.6 TS Distinctive,2004,214000,Siyah,220000,Mersin Erdemli
+147,1.6 TS Distinctive,2004,247968,Kırmızı,180000,Ankara Mamak
+Giulietta,1.6 JTD Distinctive,2014,235000,Kırmızı,440000,Ankara Etimesgut
+Giulietta,1.4 TB Progression Plus,2015,90000,Bordo,525000,Muğla Marmaris
+159,1.9 JTD Progression,2006,353000,Bordo,375000,Ankara Çankaya
+156,1.6 TS Distinctive,2004,239000,Gri,230000,İzmir Buca
+156,2.0 TS,2001,240000,Siyah,203000,Mersin Yenişehir
+Giulietta,1.4 TB MultiAir Distinctive,2012,290000,Beyaz,435000,İstanbul Bağcılar
+159,1.9 JTD Distinctive Plus,2008,305000,Şampanya,365000,Ankara Çankaya
+156,1.6 TS Distinctive,2006,270000,Gri,270000,Tekirdağ Muratlı
+156,2.0 TS Distinctive,2002,274000,Gümüş Gri,210000,İzmir Bornova
+Giulietta,1.6 JTD Distinctive,2011,197500,Gri,430000,Bursa Nilüfer
+Giulietta,1.6 JTD Distinctive,2012,203000,Beyaz,405000,İzmir Torbalı
+147,1.6 TS Distinctive,2004,308000,Kırmızı,204000,Ankara Sincan
+Giulietta,1.6 JTD Distinctive,2015,185000,Gri,535000,Bursa Nilüfer
+Giulietta,1.4 TB MultiAir Distinctive,2014,72100,Beyaz,640000,Gaziantep Şahinbey
+156,2.0 TS Executive,1999,333700,Kırmızı,232500,İstanbul Bayrampaşa
+159,1.9 JTD Distinctive Plus,2006,300550,Gri,350000,Ankara Mamak
+Giulietta,1.4 TB MultiAir Distinctive,2012,139000,Beyaz,210000,Konya Meram
+Giulietta,1.6 JTD Distinctive,2015,51250,Beyaz,523000,Ankara Yenimahalle
+Giulietta,1.6 JTD Super TCT,2018,50000,Kahverengi,735750,İstanbul Esenyurt
+Giulietta,1.4 TB MultiAir Distinctive,2012,144000,Beyaz,405750,Adana Seyhan
+Giulietta,1.6 JTD Progression Plus,2012,165000,Gri,470000,İstanbul Avcılar
+Giulietta,1.6 JTD Distinctive,2012,257300,Kırmızı,432000,Balıkesir Bandırma
+156,1.6 TS Distinctive,2005,202000,Mavi,249999,Aydın Nazilli
+159,1.9 JTD Distinctive Plus,2007,203000,Siyah,400000,İstanbul Ataşehir
+Giulietta,1.6 JTD Distinctive,2014,146000,Siyah,515000,İstanbul Beylikdüzü
+Giulietta,1.4 TB MultiAir Distinctive,2013,180000,Beyaz,595750,Gaziantep Şehitkamil
+Giulietta,1.6 JTD Distinctive,2014,165000,Siyah,392000,Konya Meram
+Giulietta,1.6 JTD Progression Plus,2014,125000,Beyaz,499900,İstanbul Kartal
+Giulietta,1.6 JTD Giulietta,2020,44500,Kırmızı,740000,İstanbul Esenler
+147,1.6 TS Distinctive,2004,312000,Kırmızı,217500,Malatya Yeşilyurt
+Giulietta,1.6 JTD Distinctive,2015,114000,Kırmızı,545000,Sivas Suşehri
+Giulietta,1.4 TB MultiAir Distinctive,2012,139000,Beyaz,510000,Ankara Mamak
+Giulietta,1.6 JTD Progression Plus,2015,187000,Beyaz,496000,Antalya Muratpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2012,111951,Beyaz,535000,İstanbul Kadıköy
+Giulietta,1.4 TB MultiAir Distinctive,2011,220000,Siyah,382000,Osmaniye Merkez
+156,1.6 TS Distinctive,2005,265000,Siyah,265000,Malatya Battalgazi
+156,1.6 TS Progression,2004,284200,Kahverengi,220000,Hatay Kırıkhan
+Giulietta,1.6 JTD Distinctive,2014,110000,Kırmızı,498500,İstanbul Esenyurt
+147,1.6 TS Distinctive,2004,285834,Gri,200000,Çorum Merkez
+Giulia,2.0 T Veloce,2021,12500,Gri,2205000,İstanbul Bağcılar
+Giulietta,1.6 JTD Progression Plus,2012,257000,Beyaz,465000,Bursa Osmangazi
+Giulietta,1.4 TB MultiAir Progression Pluse,2012,160000,Beyaz,525000,İstanbul Beşiktaş
+147,2.0 TS Selespeed Distinctive,2005,194000,Gümüş Gri,217250,Ankara Akyurt
+Giulietta,1.6 JTD Distinctive,2011,220000,Kırmızı,480000,Bursa Mudanya
+159,1.9 JTD Distinctive Plus,2008,326000,Kırmızı,385000,İstanbul Bağcılar
+Giulietta,1.6 JTD Distinctive,2013,177000,Kırmızı,439000,Ankara Çankaya
+Giulietta,1.6 JTD Distinctive,2012,329000,Beyaz,377500,İstanbul Çatalca
+Giulietta,1.4 TB MultiAir Distinctive,2014,96500,Beyaz,589000,Uşak Merkez
+Giulietta,1.6 JTD Distinctive,2013,184000,Beyaz,444000,İzmir Karşıyaka
+Giulietta,1.6 JTD Distinctive,2015,179000,Kırmızı,460000,Gaziantep Şehitkamil
+MiTo,1.4 T MultiAir TCT,2011,146000,Beyaz,449900,İstanbul Esenyurt
+Giulietta,1.6 JTD Distinctive,2012,100500,Beyaz,598000,Kocaeli İzmit
+Giulietta,1.6 JTD Progression Plus,2013,163000,Beyaz,425000,İstanbul Maltepe
+147,1.6 TS Distinctive,2008,247500,Kırmızı,260000,Balıkesir Ayvalık
+Giulietta,1.4 TB MultiAir Distinctive,2011,169000,Beyaz,495000,Hatay Antakya
+156,2.0 TS Selespeed,2001,313000,Siyah,225000,Ankara Etimesgut
+159,1.9 JTD Distinctive Plus,2008,410000,Bej,299000,Eskişehir Odunpazarı
+147,1.6 TS Distinctive,2006,250254,Siyah,220000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Progression Plus,2011,110827,Beyaz,445000,Mersin Yenişehir
+Giulietta,1.6 JTD Distinctive,2011,192000,Füme,339000,İstanbul Ataşehir
+Giulietta,1.6 JTD Distinctive,2011,220000,Kırmızı,505000,İstanbul Beylikdüzü
+Giulietta,1.6 JTD Super TCT,2016,97000,Siyah,764750,İzmir Narlıdere
+159,1.9 JTD Distinctive,2008,221000,Siyah,390000,Denizli Merkezefendi
+156,2.0 JTS  Distinctive,2004,250000,Siyah,251500,İzmir Buca
+159,1.9 JTD Distinctive Plus,2010,207550,Gri,465000,İzmir Konak
+Giulietta,1.6 JTD Distinctive,2015,155996,Kırmızı,563000,Ankara Çankaya
+Giulietta,1.4 TB Distinctive,2011,129000,Siyah,535000,Gaziantep Şehitkamil
+Giulietta,1.6 JTD Progression Plus,2011,270000,Füme,435000,Ankara Etimesgut
+156,1.6 TS,2001,194000,Beyaz,182000,Şanlıurfa Haliliye
+146,1.4 TS,1998,244000,Bordo,159999,Van Çaldıran
+159,1.9 JTD Distinctive Plus,2010,130000,Siyah,445000,Bursa Yıldırım
+GT,2.0 JTS Dis.Selespeed,2007,155000,Mavi,380000,İstanbul Bayrampaşa
+Spider,3.0 TS,1996,89000,Siyah,575000,İstanbul Kartal
+Giulietta,1.4 TB MultiAir Distinctive,2011,79000,Siyah,600000,Van Tuşba
+166,2.0 TS Distinctive,2005,290000,Siyah,270000,İzmir Buca
+147,1.6 TS Distinctive,2007,273000,Kırmızı,230000,İstanbul Ataşehir
+Giulietta,1.4 TB MultiAir Distinctive,2015,54670,Beyaz,682000,Konya Karatay
+156,1.6 TS,1999,280000,Mavi,175000,Kırklareli Vize
+156,1.6 TS,2001,274400,Kırmızı,200000,Sakarya Adapazarı
+159,1.9 JTD Distinctive Plus,2007,239000,Siyah,450900,İstanbul Çekmeköy
+145,1.4 TS STD,1999,256000,Kırmızı,116500,Rize Çayeli
+Giulietta,1.6 JTD Progression Plus,2012,128000,Beyaz,440000,Bursa Nilüfer
+159,1.9 JTD Distinctive,2007,250100,Gri,392000,İstanbul Beyoğlu
+145,1.7,1996,204000,Kırmızı,135000,Edirne Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2011,213000,Kırmızı,460000,Adana Seyhan
+Giulietta,1.6 JTD Super TCT,2017,159000,Gümüş Gri,625000,Eskişehir Odunpazarı
+Giulietta,1.4 TB Distinctive,2011,89500,Beyaz,381000,Sakarya Adapazarı
+166,3.0 Sportronic,1999,220000,Gri,215000,Kocaeli Çayırova
+Giulietta,1.6 JTD Distinctive,2014,152000,Siyah,525000,Ankara Çankaya
+156,1.6 TS Distinctive,2003,249000,Lacivert,229500,İzmir Bornova
+145,1.6,1996,224000,Kırmızı,85000,Eskişehir Tepebaşı
+Giulietta,1.6 JTD Distinctive,2013,163000,Kırmızı,482000,Kocaeli İzmit
+156,1.6 TS,2001,279000,Mavi,205000,İstanbul Ümraniye
+156,1.6 TS Distinctive,2006,211000,Siyah,285000,Diyarbakır Kulp
+146,1.6 TS,1998,305000,Gri,120000,Ankara Etimesgut
+146,1.4 TS,1997,223000,Kırmızı,129900,Kocaeli Darıca
+156,1.6 TS Distinctive,2004,233000,Siyah,225000,İzmir Gaziemir
+147,1.6 TS Distinctive,2005,167000,Siyah,235000,İzmir Kemalpaşa
+Giulietta,1.4 TB MultiAir Distinctive,2012,88000,Kırmızı,585000,Antalya Muratpaşa
+145,1.4 TS STD,1998,315000,Mavi,123000,Ankara Etimesgut
+166,2.0 TS,2002,177000,Bordo,205000,Gaziantep Oğuzeli
+147,1.6 TS Distinctive,2005,298500,Mavi,245000,İzmir Bergama
+Giulietta,1.4 TB Distinctive,2011,135000,Beyaz,402500,İstanbul Beylikdüzü
+Giulietta,1.6 JTD Distinctive,2015,130000,Kırmızı,618000,İstanbul Beykoz
+146,1.6 L,1996,332000,Siyah,124000,Adana Seyhan
+Giulietta,1.6 JTD Progression Plus,2014,252500,Beyaz,455000,İzmir Bornova
+Giulietta,1.4 TB MultiAir Distinctive,2014,119000,Lacivert,615000,Konya Meram
+MiTo,1.4 T MultiAir TCT,2013,99000,Beyaz,449900,İstanbul Büyükçekmece
+156,1.6 TS Distinctive,2004,260000,Gri,282000,İstanbul Küçükçekmece
+Giulietta,1.6 JTD Progression,2018,110000,Beyaz,639000,Ankara Akyurt
+146,1.6 L,1996,275000,Şampanya,105000,İstanbul Kadıköy
+Giulietta,1.4 TB MultiAir Distinctive,2012,116000,Beyaz,675990,İstanbul Maltepe
+147,1.6 TS Progression,2006,360000,Siyah,196000,Antalya Alanya
+Giulietta,1.6 JTD Progression Plus,2015,179000,Beyaz,550000,İstanbul Avcılar
+146,1.4 TS,1998,288000,Gri,135500,Ankara Elmadağ
+156,1.6 TS Distinctive,2004,280000,Gri,242000,Yozgat Sorgun
+Giulietta,1.6 JTD Distinctive,2014,213000,Siyah,465000,Kayseri Kocasinan
+156,1.6 TS Distinctive,2004,280000,Mavi,230000,İzmir Karşıyaka
+Giulietta,1.6 JTD Giulietta,2020,29300,Kırmızı,765000,İstanbul Esenyurt
+147,1.6 TS Progression,2009,182000,Kırmızı,284500,İstanbul Sarıyer
+Giulietta,1.4 TB MultiAir Distinctive,2011,110000,Beyaz,528000,Çanakkale Yenice
+Giulietta,1.4 TB Progression Plus,2013,165000,Beyaz,435500,İstanbul Ataşehir
+Giulietta,1.6 JTD Distinctive,2012,180000,Beyaz,369850,İstanbul Eyüpsultan
+Giulietta,1.6 JTD Distinctive,2014,220000,Kırmızı,325000,Ankara Yenimahalle
+Giulietta,1.6 JTD Super TCT,2016,110000,Gri,815000,Konya Meram
+156,2.0 TS Distinctive,2001,272000,Siyah,193000,Ankara Yenimahalle
+Giulietta,1.6 JTD Progression Plus,2012,172600,Beyaz,422500,Sakarya Sapanca
+Giulietta,1.4 TB Progression Plus,2011,97000,Beyaz,445000,Kocaeli Gebze
+Giulietta,1.4 TB Progression Plus,2011,183000,Beyaz,410000,Sivas Merkez
+145,1.6,1996,115500,Yeşil,122750,İstanbul Ümraniye
+Giulietta,1.6 JTD Distinctive,2014,60173,Kırmızı,535000,İstanbul Ümraniye
+147,1.6 TS Distinctive,2003,182000,Kırmızı,232000,İstanbul Küçükçekmece
+145,1.6,1996,240000,Kırmızı,137000,Muğla Bodrum
+156,1.6 TS,2001,315000,Gümüş Gri,151900,İstanbul Başakşehir
+147,2.0 TS Selespeed Distinctive,2005,245000,Siyah,240000,Gaziantep Şehitkamil
+147,1.6 TS Distinctive,2007,260000,Bordo,230000,Antalya Alanya
+156,1.6 TS Distinctive,2004,176000,Kırmızı,275000,İstanbul Maltepe
+MiTo,1.4 T MultiAir TCT Sportivo,2012,106000,Beyaz,515000,İstanbul Beykoz
+156,1.6 TS Progression,2004,187000,Siyah,278000,Antalya Kepez
+146,1.4 TS,1997,295000,Beyaz,113000,Şanlıurfa Haliliye
+GT,2.0 JTS Distinctive,2006,160000,Kırmızı,338000,Kocaeli Başiskele
+Giulietta,1.6 JTD Distinctive,2015,179600,Beyaz,473500,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2011,120000,Beyaz,450000,İstanbul Ataşehir
+Giulietta,1.6 JTD Progression Plus,2011,116000,Beyaz,451500,İstanbul Eyüpsultan
+155,2.0 TS Super Losso,1997,280000,Siyah,140000,Konya Selçuklu
+MiTo,1.4 T Distinctive,2009,165500,Kırmızı,405000,İstanbul Gaziosmanpaşa
+156,1.6 TS Distinctive,2004,264000,Füme,255000,İstanbul Avcılar
+Giulietta,1.4 TB MultiAir Super TCT,2017,56750,Beyaz,888000,Rize Merkez
+156,1.6 TS,1998,243000,Mavi,141500,İstanbul Diğer
+Giulietta,1.4 TB MultiAir Distinctive,2013,145000,Beyaz,449000,Kayseri Kocasinan
+147,1.6 TS Progression,2004,197000,Siyah,195000,Ankara Beypazarı
+145,1.6,1997,288000,Kırmızı,143000,İstanbul Ataşehir
+Giulia,2.0 T Veloce,2022,7350,Siyah,2390000,İstanbul Kadıköy
+Giulietta,1.6 JTD Distinctive,2011,162700,Siyah,395900,İzmir Gaziemir
+Giulietta,1.6 JTD Progression Plus,2014,128500,Beyaz,502000,İstanbul Zeytinburnu
+GT,2.0 JTS Distinctive,2006,124236,Siyah,350000,İstanbul Fatih
+Giulietta,1.6 JTD Progression Plus,2013,150000,Beyaz,470000,Antalya Muratpaşa
+156,2.0 TS Distinctive,2001,222000,Gri,158500,İstanbul Küçükçekmece
+MiTo,1.6 JTD Distinctive,2009,225000,Beyaz,340000,İstanbul Bağcılar
+Giulietta,1.4 TB MultiAir Distinctive,2013,76844,Beyaz,619000,Çorum Merkez
+147,1.6 TS Distinctive,2004,227000,Siyah,200000,Antalya Muratpaşa
+156,2.0 TS Selespeed,2000,353000,Gümüş Gri,235000,İstanbul Ümraniye
+MiTo,1.4 T Distinctive,2009,197000,Siyah,345000,Kocaeli İzmit
+Giulietta,1.6 JTD Distinctive,2012,122000,Beyaz,462500,İzmir Gaziemir
+Giulietta,1.4 TB Progression Plus,2014,63000,Beyaz,550000,İstanbul Büyükçekmece
+156,2.0 TS,1998,276000,Siyah,140000,Antalya Alanya
+Giulietta,1.6 JTD Distinctive,2012,142500,Kırmızı,430000,Ankara Etimesgut
+145,1.6,1996,225000,Siyah,134000,Kocaeli Çayırova
+MiTo,1.4 T MultiAir TCT,2011,142125,Beyaz,485000,İstanbul Üsküdar
+156,2.0 TS Distinctive,2000,366000,Kırmızı,190000,İstanbul Kadıköy
+156,1.6 TS Distinctive,2005,214800,Şampanya,280000,İstanbul Avcılar
+Giulietta,1.4 TB MultiAir Distinctive,2014,166000,Kırmızı,635000,Uşak Merkez
+Giulietta,1.4 TB MultiAir Distinctive,2012,139000,Gümüş Gri,503000,Ankara Çankaya
+GTV,2.0 TB,1997,142000,Beyaz,421000,Antalya Aksu
+Giulietta,1.6 JTD Distinctive,2013,190000,Beyaz,465000,Gaziantep Şehitkamil
+156,1.6 TS Distinctive,2005,278000,Siyah,240000,Gaziantep Şahinbey
+MiTo,1.3 JTD City,2012,161235,Kırmızı,425000,Ankara Çankaya
+Giulietta,1.4 TB MultiAir Distinctive,2013,123000,Beyaz,589000,Manisa Salihli
+Giulietta,1.6 JTD Super TCT,2020,49000,Beyaz,835000,Antalya Muratpaşa
+166,2.0 TS Executive,2001,260000,Siyah,145000,Sivas Şarkışla
+Giulietta,1.6 JTD Distinctive,2012,301000,Kırmızı,395000,İstanbul Bağcılar
+147,1.6 TS Distinctive,2005,213000,Füme,274000,İstanbul Büyükçekmece
+Giulietta,1.4 TB MultiAir Distinctive,2015,87000,Beyaz,630000,İstanbul Küçükçekmece
+33,1.5 IE,1990,147000,Kırmızı,75000,İstanbul Pendik
+Giulietta,1.6 JTD Distinctive,2012,176500,Beyaz,412500,Ankara Etimesgut
+Giulietta,1.6 JTD Progression Plus,2011,238000,Siyah,383000,Gaziantep Şahinbey
+Giulietta,1.6 JTD Distinctive,2011,177000,Beyaz,398000,İstanbul Ümraniye
+145,1.7,1995,247000,Gri,95000,İstanbul Eyüpsultan
+159,1.9 JTD Distinctive Plus,2008,319000,Kahverengi,425000,İzmir Çiğli
+159,1.9 JTD Distinctive,2006,269000,Gri,293000,İstanbul Bayrampaşa
+145,1.6,1996,215000,Yeşil,140000,Mersin Erdemli
+147,2.0 TS Selespeed Distinctive,2004,175000,Bej,215000,İstanbul Ataşehir
+Giulietta,1.4 TB MultiAir Distinctive,2011,94000,Gümüş Gri,500000,Balıkesir Karesi
+MiTo,1.4 T MultiAir TCT,2013,117000,Beyaz,425000,İstanbul Beşiktaş
+Giulietta,1.4 TB MultiAir Distinctive,2012,179900,Beyaz,535000,Antalya Muratpaşa
+Giulietta,1.6 JTD Super TCT,2018,155200,Gri,613000,İstanbul Sancaktepe
+Giulietta,1.6 JTD Distinctive,2013,161000,Beyaz,470000,İstanbul Sancaktepe
+Giulietta,1.4 TB MultiAir Distinctive,2012,288000,Beyaz,409000,Düzce Merkez
+Giulietta,1.6 JTD Progression Plus,2012,104700,Beyaz,457500,İstanbul Kadıköy
+Giulietta,1.6 JTD Progression,2017,47000,Beyaz,725000,Ankara Çankaya
+156,1.6 TS Distinctive,2006,299000,Füme,225000,Aydın Söke
+Giulietta,1.6 JTD Distinctive,2011,188000,Beyaz,393750,İstanbul Esenyurt
+MiTo,1.4 T MultiAir Quadrifoglio Verde,2010,118000,Kırmızı,365000,İstanbul Esenyurt
+Giulietta,1.4 TB MultiAir Distinctive,2014,78000,Kırmızı,665500,Sakarya Serdivan
+159,3.2 JTS Q4 Distinctive,2006,208000,Füme,1375000,İstanbul Sarıyer
+Giulietta,1.6 JTD Distinctive,2011,188000,Beyaz,470000,İstanbul Maltepe
+Giulietta,1.6 JTD Distinctive,2013,235000,Kırmızı,407500,İstanbul Ataşehir
+Giulietta,1.6 JTD Progression Plus,2011,178000,Siyah,410000,İstanbul Gaziosmanpaşa
+147,1.6 TS Distinctive,2004,253000,Kırmızı,193000,İzmir Çiğli
+MiTo,1.4 T Distinctive,2009,168000,Sarı,339000,İstanbul Kadıköy
+156,1.6 TS Distinctive,2004,262000,Gri,230000,Hatay Dörtyol
+147,1.6 TS Progression,2009,93800,Siyah,337500,İstanbul Beylikdüzü
+Giulietta,1.6 JTD Distinctive,2012,215000,Kırmızı,445000,Denizli Acıpayam
+156,2.0 TS Distinctive,2000,370000,Gri,187000,Muğla Milas
+MiTo,1.6 JTD Progression,2009,217000,Kahverengi,335900,İstanbul Büyükçekmece
+156,1.6 TS Distinctive,2005,187000,Siyah,283000,Balıkesir Karesi
+Giulietta,1.6 JTD Distinctive,2015,103084,Siyah,588000,Ankara Çankaya
+156,1.6 TS Distinctive,2005,240000,Gri,270000,Mardin Savur
+Giulietta,1.6 JTD Distinctive,2014,170000,Beyaz,580000,İzmir Karşıyaka
+159,1.9 JTD Distinctive Plus,2008,269000,Bordo,337900,İstanbul Bağcılar
+Giulietta,1.6 JTD Distinctive,2015,118000,Beyaz,520000,Ankara Çankaya
+147,1.6 TS Distinctive,2005,320000,Kırmızı,265000,Mersin Silifke
+Giulietta,1.4 TB MultiAir Distinctive,2014,134990,Kırmızı,639000,İstanbul Üsküdar
+Giulia,2.0 T Sprint,2020,32700,Lacivert,1919000,İstanbul Üsküdar
+156,2.0 TS Executive,1999,230000,Gümüş Gri,172000,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Super TCT,2016,75800,Kırmızı,688900,Denizli Sarayköy
+Giulietta,1.6 JTD Distinctive,2012,245000,Beyaz,420000,İstanbul Kadıköy
+147,1.6 TS Distinctive,2004,210000,Gri,233000,İzmir Güzelbahçe
+Brera,3.2 JTS Q4 Sky Window,2006,6080,Siyah,1700000,İstanbul Maltepe
+Giulietta,1.6 JTD Super TCT,2016,105000,Kırmızı,689000,Mersin Yenişehir
+Giulietta,1.6 JTD Super TCT,2016,140000,Beyaz,725000,Eskişehir Odunpazarı
+156,1.6 TS Progression,2004,220000,Kırmızı,294500,Burdur Bucak
+Giulietta,1.6 JTD Distinctive,2014,117000,Beyaz,509000,İstanbul Başakşehir
+Giulietta,1.6 JTD Distinctive,2015,103000,Kırmızı,550000,Diyarbakır Kayapınar
+159,1.9 JTD Distinctive,2006,212000,Siyah,365000,Balıkesir Altıeylül
+156,1.6 TS Distinctive,2006,360000,Siyah,190000,İstanbul Ataşehir
+Giulietta,1.4 TB MultiAir Distinctive,2015,89592,Beyaz,779000,Ankara Etimesgut
+Giulietta,1.6 JTD Distinctive,2014,90000,Siyah,517000,Bartın Merkez
+156,2.0 TS Executive,1999,227000,Siyah,180000,Eskişehir Tepebaşı
+147,1.6 TS Progression,2004,230000,Siyah,200000,Erzurum Yakutiye
+Giulietta,1.4 TB MultiAir Distinctive,2012,116000,Beyaz,615750,İstanbul Pendik
+Giulietta,1.6 JTD Progression,2016,166000,Beyaz,659000,Adana Seyhan
+159,1.9 JTD Distinctive Plus,2009,187000,Beyaz,450000,İzmir Konak
+147,1.6 TS Distinctive,2005,299000,Siyah,215000,Nevşehir Merkez
+MiTo,1.4 T MultiAir TCT Sportivo,2011,97000,Beyaz,515000,Kocaeli Gebze
+Giulietta,1.6 JTD Distinctive,2013,156000,Beyaz,420000,İstanbul Kartal
+147,1.6 TS Black Line,2006,175000,Siyah,245000,İstanbul Beşiktaş
+156,1.6 TS Distinctive,2004,185000,Füme,272500,İstanbul Kadıköy
+156,1.6 TS Distinctive,2004,290000,Gümüş Gri,239750,Ankara Keçiören
+Giulietta,1.6 JTD Distinctive,2014,169000,Beyaz,490000,Tekirdağ Çorlu
+147,1.6 TS Distinctive,2004,223000,Kırmızı,229750,Çorum Merkez
+Giulia,2.0 T Veloce,2020,46000,Mavi,2150000,İstanbul Kadıköy
+159,1.9 JTD Distinctive,2008,300500,Siyah,385000,İstanbul Zeytinburnu
+Giulietta,1.4 TB MultiAir Distinctive,2013,123000,Beyaz,465000,İstanbul Sarıyer
+Giulietta,1.4 TB Distinctive,2011,104000,Beyaz,455000,İstanbul Pendik
+156,2.0 TS,2000,287000,Siyah,170000,Aydın Söke
+Giulietta,1.4 TB MultiAir Distinctive,2013,90550,Beyaz,620000,İstanbul Maltepe
+Giulietta,1.4 TB MultiAir Distinctive,2012,165000,Füme,535000,İstanbul Fatih
+146,1.6 TS,1997,352000,Lacivert,121000,İstanbul Küçükçekmece
+156,1.6 TS Distinctive,2004,248000,Bej,265000,İzmir Karabağlar
+Giulietta,1.6 JTD Distinctive,2014,150000,Kırmızı,449000,İstanbul Çekmeköy
+Giulietta,1.6 JTD Distinctive,2012,220000,Beyaz,443000,İstanbul Sancaktepe
+147,1.6 TS Distinctive,2008,158000,Kırmızı,295000,Sivas Merkez
+147,1.6 TS Progression,2003,238500,Kırmızı,204000,Ankara Mamak
+Giulietta,1.75 TBI Quadrifoglio Verde,2011,167000,Kırmızı,680000,Antalya Konyaaltı
+147,1.6 TS Distinctive,2006,228000,Gri,255000,İstanbul Esenyurt
+MiTo,1.6 JTD Distinctive,2010,270000,Beyaz,325000,İstanbul Başakşehir
+156,2.0 TS Selespeed,2001,290000,Mavi,220000,İstanbul Başakşehir
+159,1.9 JTD Distinctive,2007,208412,Gümüş Gri,370000,İzmir Karşıyaka
+159,1.9 JTD Distinctive,2006,262000,Siyah,335000,Diğer
+156,1.6 TS Distinctive,2004,343000,Lacivert,215000,Muğla Bodrum
+145,1.4 TS STD,1998,180000,Lacivert,117500,Antalya Diğer
+MiTo,1.4 T Distinctive,2011,178000,Siyah,420000,İstanbul Maltepe
+156,2.0 TS,1998,300010,Gümüş Gri,162000,Denizli Pamukkale
+Giulietta,1.6 JTD Progression Plus,2014,175000,Gri,510000,İstanbul Pendik
+147,1.9 JTD Q2,2003,261000,Siyah,225000,İstanbul Kadıköy
+Giulietta,1.6 JTD Distinctive,2011,270000,Beyaz,620000,Muğla Bodrum
+Giulietta,1.4 TB MultiAir Distinctive,2012,129700,Beyaz,615000,İstanbul Ataşehir
+146,1.4 TS,1998,222000,Bordo,120000,İstanbul Küçükçekmece
+156,1.6 TS Distinctive,2004,243000,Kırmızı,239500,Eskişehir Odunpazarı
+Giulietta,1.6 JTD Distinctive,2011,171000,Beyaz,405000,İstanbul Küçükçekmece
+Giulietta,1.4 TB Distinctive,2011,118000,Beyaz,445000,İstanbul Esenler
+Giulia,2.0 T Veloce,2022,20000,Füme,2430000,İstanbul Başakşehir
+Giulietta,1.6 JTD Distinctive,2011,270000,Beyaz,384750,Ankara Sincan
+Giulietta,1.4 TB MultiAir Distinctive,2012,71000,Beyaz,544000,İstanbul Maltepe
+MiTo,1.3 JTD City,2014,111889,Kırmızı,400000,Gaziantep Şehitkamil
+147,1.6 TS Distinctive,2005,259000,Siyah,235000,Afyonkarahisar Merkez
+147,1.6 TS Distinctive,2004,344191,Mavi,185000,Manisa Yunusemre
+159,2.4 JTD Distinctive,2007,311000,Füme,357500,İstanbul Kadıköy
+Giulietta,1.4 TB MultiAir Distinctive,2011,191000,Bordo,420000,Kocaeli Gebze
+Giulietta,1.4 TB MultiAir Distinctive,2011,174000,Beyaz,520000,İstanbul Bahçelievler
+Giulietta,1.4 TB Progression Plus,2014,130758,Kırmızı,490000,Balıkesir Bandırma
+MiTo,1.3 JTD City,2012,191000,Beyaz,352500,İstanbul Maltepe
+Giulia,2.0 T Veloce,2022,10243,Beyaz,2430000,Konya Karatay
+146,1.6 TS,1997,352000,Lacivert,121000,İstanbul Küçükçekmece
+166,2.0 TB,1999,260000,Siyah,173000,İzmir Bornova
+147,1.6 TS Distinctive,2003,232300,Kırmızı,188000,Aydın Nazilli
+Giulietta,1.4 TB MultiAir Super TCT,2016,87000,Beyaz,799000,İzmir Karabağlar
+Giulietta,1.6 JTD Progression Plus,2012,152000,Beyaz,445000,İzmir Gaziemir
+Giulietta,1.6 JTD Progression Plus,2014,110000,Siyah,515000,İstanbul Kartal
+146,1.6 L,1997,272300,Siyah,125000,İstanbul Üsküdar
+159,1.9 JTD Distinctive Plus,2007,243000,Bordo,485000,İstanbul Ataşehir
+156,1.6 TS Distinctive,2005,326000,Mavi,259000,Muğla Bodrum

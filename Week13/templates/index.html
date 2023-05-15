@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Earthquake Data</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <div id="myPlot">
+        <script>
+            let data = [
+                {
+                    x: {{ longitudes }},
+                    y: {{ latitudes }},
+                    z: {{ depths }},
+                    type: 'scatter',
+                    mode: 'markers',
+                    text: {{ locations|safe }},
+                    marker: {
+                        color: '#ff0000',
+                        size: {{ magnitudes }}.map(function(x) { return x * 3;})
+                    }
+                }
+            ];
+            let layout = {
+                title: 'Coordinates of Earthquakes',
+                xaxis: {
+                    title: 'Longitudes',
+                    titlefont: {
+                        size: 18,
+                        color: '#7f7f7f'
+                    }
+                },
+                yaxis: {
+                    title: 'Latitudes',
+                    titlefont: {
+                        size: 18,
+                        color: '#7f7f7f'
+                    }
+                },
+                zaxis: {
+                    title: 'Depths',
+                    titlefont: {
+                        size: 18,
+                        color: '#7f7f7f'
+                    }
+                }
+            };
+            Plotly.newPlot('myPlot', data, layout);
+        </script>
+    </div>
+    <div id="myHist">
+        <script>
+            let data4hist = [
+                {
+                    x: {{ magnitudes }},
+                    type: 'histogram',
+                    xbins: {
+                        start: 0,
+                        end: 10,
+                        size: 0.5
+                    }
+                }
+            ];
+            let layout4hist = {
+                title: 'Histogram of Magnitudes',
+                xaxis: {
+                    title: 'Magnitude',
+                    titlefont: {
+                        size: 18,
+                        color: '#7f7f7f'
+                    }
+                },
+                yaxis: {
+                    title: 'Count',
+                    titlefont: {
+                        size: 18,
+                        color: '#7f7f7f'
+                    }
+                }
+            };
+            Plotly.newPlot('myHist', data4hist, layout4hist);
+        </script>
+    </div>
+    <div id="map">
+        <script>
+            let datamap = [
+                {
+                    type: 'scattergeo',
+                    lon: {{ longitudes }},
+                    lat: {{ latitudes }},
+                    mode: 'markers',
+                    text: {{ locations|safe }},
+                    marker: {
+                        color: '#ff0000',
+                        size: {{ magnitudes }}.map(function(x) { return x * 3; })
+                    }
+                }
+            ];
+            let layoutmap = {
+                title: 'Map of Earthquakes',
+                width: 1200,
+                height: 500,
+                geo: {
+                    scope: 'world',
+                    resolution: 50,
+                    showcountries: true,
+                    countrycolor: 'rgb(205, 205, 205)',
+                    showsubunits: true,
+                    subunitcolor: 'rgb(205, 205, 205)',
+                    showland: true,
+                    landcolor: 'rgb(205, 255, 205)',
+                    showcoastlines: true,
+                    coastlinecolor: 'rgb(204, 204, 204)',
+                    showocean: true,
+                    oceancolor: 'rgb(155, 155, 255)',
+                    showlakes: true,
+                    lakecolor: 'rgb(185, 185, 255)',
+                    lataxis: {
+                        range: [33, 43]
+                    },
+                    lonaxis: {
+                        range: [20, 48]
+                    }
+                }
+            };
+            Plotly.newPlot('map', datamap, layoutmap);
+        </script>
+    </div>
+    {{ content|safe }}
+</body>
+</html>
