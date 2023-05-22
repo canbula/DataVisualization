@@ -1,5 +1,5 @@
 from flask import Flask, render_template, url_for
-from alfaromeo import AlfaRomeo
+from alfaromeo_Furkan_ERYILMAZ import AlfaRomeo
 import os
 import numpy as np
 import matplotlib.pyplot as plt
